@@ -1,0 +1,6 @@
+*DS_STORE
+.cache/
+history.yml
+vendor/
+dashing.pid
+.idea/

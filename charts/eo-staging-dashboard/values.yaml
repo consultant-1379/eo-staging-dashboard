@@ -1,0 +1,6 @@
+# Default values for eo-staging-dashboard.
+# This is a YAML-formatted file.
+# Declare variables to be passed into your templates.
+image:
+  repository: armdocker.rnd.ericsson.se/proj-orchestration-so/eo-staging-dashboard
+  tag: latest

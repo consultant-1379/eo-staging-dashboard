@@ -1,0 +1,3195 @@
+-
+  Date: '---'
+  EO-MT:
+  - artifact: '---'
+    newEntry: false
+  TestReport:
+  - artifact: '---'
+    link: ''
+  ENM:
+  - artifact: ''
+    newEntry:
+  EO-SO:
+  - artifact: ''
+    link: ''
+    newEntry:
+    buildNumber:
+  EO-CM:
+  - artifact: ''
+    link: ''
+    newEntry:
+  VNF-LCM-Versions:
+  - artifact: ''
+    link: ''
+    newEntry:
+  - artifact: ''
+    link: ''
+    newEntry:
+  - artifact: ''
+    link: ''
+    newEntry:
+  - artifact: ''
+    link: ''
+    newEntry:
+  Scale-In-And-Out:
+  - artifact: ''
+    newEntry:
+  Real-VNF-Test:
+  - artifact: ''
+    newEntry:
+  Real-VNF Packages:
+  - artifact: ''
+    link: ''
+  - artifact: ''
+    link: ''
+  EO-Policy Framework:
+  - artifact: ''
+    link: ''
+  Dummy-Package:
+  - artifact: ''
+    link: ''
+    newEntry:
+  - artifact: ''
+    link: ''
+    newEntry:
+  Dummy-Image-Deployed:
+  - artifact: ''
+    link: ''
+    newEntry:
+  - artifact: ''
+    link: ''
+    newEntry:
+  Dummy-Workflow-Version:
+  - artifact: ''
+    link: ''
+    newEntry:
+  Status: 'not_started'
+-
+  Date: '3/04/2019'
+  EO-MT:
+  - artifact: ''
+    newEntry:
+  TestReport:
+  - artifact: ''
+    link: ''
+  ENM:
+  - artifact: 'ENM 18.18 (ISO Version: 1.67.83'
+    newEntry: false
+  EO-SO:
+  - artifact: '1.2.1471'
+    link: 'https://arm.rnd.ki.sw.ericsson.se/artifactory/proj-adp-helm-dev-generic-local/cd/sandbox/eso/baseline/eric-eo-so-1.2.1471.tgz'
+    newEntry: true
+    buildNumber: 0
+  EO-CM:
+  - artifact: 'R18.3.0.0.1906.1108'
+    link: 'https://arm.epk.ericsson.se/artifactory/proj-ecm-product-generic-local/ecm/product/all/18.2.0.0.1906.1108/'
+    newEntry: false
+  VNF-LCM-Versions:
+  - artifact: '19.05'
+    link: ''
+    newEntry: false
+  - artifact: '5.3.15'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/media/ERICvnflcmossrcatlas_CXP9034147/5.1.12/ERICvnflcmossrcatlas_CXP9034147-5.3,15.tar'
+    newEntry: false
+  Real-VNF Packages:
+  - artifact: 'EPG2.4.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/EPG2.4.zip?version=2&modificationDate=1548434060000&api=v2'
+  - artifact: 'EPG2.4_resources.tar.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/EPG2.4_resources.tar.zip?version=1&modificationDate=1548347197000&api=v2'
+  Dummy-Package:
+  - artifact: 'Test 1 artifacts.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%201%20artifacts.zip?version=1&modificationDate=1543326112000&api=v2'
+    newEntry: false
+  - artifact: 'Test 3 Artifacts.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%203%20Artifacts.zip?version=1&modificationDate=1546518263000&api=v2'
+    newEntry: false
+  Dummy-Image-Deployed:
+  - artifact: 'ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/4.8.13/ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+    newEntry: false
+  Dummy-Workflow-Version:
+  - artifact: '2.4.26'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/content/groups/public/com/ericsson/vnflcm/examples/workflows/ERICvnflaf_CXP123456/2.4.26/ERICvnflaf_CXP123456-2.4.26.rpm'
+    newEntry: false
+  Status: 'running'
+-
+  Date: '1/04/2019'
+  EO-MT:
+  - artifact: ''
+    newEntry:
+  TestReport:
+  - artifact: ''
+    link: ''
+  ENM:
+  - artifact: 'ENM 18.18 (ISO Version: 1.67.83'
+    newEntry: false
+  EO-SO:
+  - artifact: '1.2.1445'
+    link: 'https://arm.rnd.ki.sw.ericsson.se/artifactory/proj-adp-helm-dev-generic-local/cd/sandbox/eso/baseline/eric-eo-so-1.2.1445.tgz'
+    newEntry: true
+    buildNumber: 0
+  EO-CM:
+  - artifact: 'R18.2.0.0.1904.1080'
+    link: 'https://arm.epk.ericsson.se/artifactory/proj-ecm-product-generic-local/ecm/product/all/18.2.0.0.1904.1080/'
+    newEntry: false
+  VNF-LCM-Versions:
+  - artifact: '19.05'
+    link: ''
+    newEntry: false
+  - artifact: '5.3.15'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/media/ERICvnflcmossrcatlas_CXP9034147/5.1.12/ERICvnflcmossrcatlas_CXP9034147-5.3,15.tar'
+    newEntry: false
+  Real-VNF Packages:
+  - artifact: 'EPG2.4.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/EPG2.4.zip?version=2&modificationDate=1548434060000&api=v2'
+  - artifact: 'EPG2.4_resources.tar.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/EPG2.4_resources.tar.zip?version=1&modificationDate=1548347197000&api=v2'
+  Dummy-Package:
+  - artifact: 'Test 1 artifacts.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%201%20artifacts.zip?version=1&modificationDate=1543326112000&api=v2'
+    newEntry: false
+  - artifact: 'Test 3 Artifacts.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%203%20Artifacts.zip?version=1&modificationDate=1546518263000&api=v2'
+    newEntry: false
+  Dummy-Image-Deployed:
+  - artifact: 'ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/4.8.13/ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+    newEntry: false
+  Dummy-Workflow-Version:
+  - artifact: '2.4.26'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/content/groups/public/com/ericsson/vnflcm/examples/workflows/ERICvnflaf_CXP123456/2.4.26/ERICvnflaf_CXP123456-2.4.26.rpm'
+    newEntry: false
+  Status: 'success'
+
+-
+  Date: '29/03/2019'
+  EO-MT:
+  - artifact: ''
+    newEntry:
+  TestReport:
+  - artifact: ''
+    link: ''
+  ENM:
+  - artifact: 'ENM 18.18 (ISO Version: 1.67.83'
+    newEntry: false
+  EO-SO:
+  - artifact: '1.2.1445'
+    link: 'https://arm.rnd.ki.sw.ericsson.se/artifactory/proj-adp-helm-dev-generic-local/cd/sandbox/eso/baseline/eric-eo-so-1.2.1445.tgz'
+    newEntry: true
+    buildNumber: 0
+  EO-CM:
+  - artifact: 'R18.2.0.0.1904.1080'
+    link: 'https://arm.epk.ericsson.se/artifactory/proj-ecm-product-generic-local/ecm/product/all/18.2.0.0.1904.1080/'
+    newEntry: false
+  VNF-LCM-Versions:
+  - artifact: '19.05'
+    link: ''
+    newEntry: false
+  - artifact: '5.3.15'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/media/ERICvnflcmossrcatlas_CXP9034147/5.1.12/ERICvnflcmossrcatlas_CXP9034147-5.3,15.tar'
+    newEntry: false
+  Real-VNF Packages:
+  - artifact: 'EPG2.4.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/EPG2.4.zip?version=2&modificationDate=1548434060000&api=v2'
+  - artifact: 'EPG2.4_resources.tar.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/EPG2.4_resources.tar.zip?version=1&modificationDate=1548347197000&api=v2'
+  Dummy-Package:
+  - artifact: 'Test 1 artifacts.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%201%20artifacts.zip?version=1&modificationDate=1543326112000&api=v2'
+    newEntry: false
+  - artifact: 'Test 3 Artifacts.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%203%20Artifacts.zip?version=1&modificationDate=1546518263000&api=v2'
+    newEntry: false
+  Dummy-Image-Deployed:
+  - artifact: 'ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/4.8.13/ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+    newEntry: false
+  Dummy-Workflow-Version:
+  - artifact: '2.4.26'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/content/groups/public/com/ericsson/vnflcm/examples/workflows/ERICvnflaf_CXP123456/2.4.26/ERICvnflaf_CXP123456-2.4.26.rpm'
+    newEntry: false
+  Status: 'success'
+-
+  Date: '28/03/2019'
+  EO-MT:
+  - artifact: '18.2.43'
+    newEntry: false
+  TestReport:
+  - artifact: 'JOB SO-80'
+    link: 'https://fem101-eiffel052.lmera.ericsson.se:8443/jenkins/job/DO_ECM_SO_Automated_Integration_Test/80/cucumber-html-reports/overview-features.html'
+  ENM:
+  - artifact: 'ENM 18.18 (ISO Version: 1.67.83'
+    newEntry: false
+  EO-SO:
+  - artifact: '1.2.1441'
+    link: 'https://arm.rnd.ki.sw.ericsson.se/artifactory/proj-adp-helm-dev-generic-local/cd/sandbox/eso/baseline/eric-eo-so-1.2.1441.tgz'
+    newEntry: true
+    buildNumber: 0
+  EO-CM:
+  - artifact: 'R18.2.0.0.1904.1080'
+    link: 'https://arm.epk.ericsson.se/artifactory/proj-ecm-product-generic-local/ecm/product/all/18.2.0.0.1904.1080/'
+    newEntry: false
+  VNF-LCM-Versions:
+  - artifact: '19.05'
+    link: ''
+    newEntry: false
+  - artifact: '5.3.15'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/media/ERICvnflcmossrcatlas_CXP9034147/5.1.12/ERICvnflcmossrcatlas_CXP9034147-5.3,15.tar'
+    newEntry: false
+  Real-VNF Packages:
+  - artifact: 'EPG2.4.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/EPG2.4.zip?version=2&modificationDate=1548434060000&api=v2'
+  - artifact: 'EPG2.4_resources.tar.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/EPG2.4_resources.tar.zip?version=1&modificationDate=1548347197000&api=v2'
+  Dummy-Package:
+  - artifact: 'Test 1 artifacts.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%201%20artifacts.zip?version=1&modificationDate=1543326112000&api=v2'
+    newEntry: false
+  - artifact: 'Test 3 Artifacts.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%203%20Artifacts.zip?version=1&modificationDate=1546518263000&api=v2'
+    newEntry: false
+  Dummy-Image-Deployed:
+  - artifact: 'ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/4.8.13/ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+    newEntry: false
+  Dummy-Workflow-Version:
+  - artifact: '2.4.26'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/content/groups/public/com/ericsson/vnflcm/examples/workflows/ERICvnflaf_CXP123456/2.4.26/ERICvnflaf_CXP123456-2.4.26.rpm'
+    newEntry: false
+  Status: 'success'
+-
+  Date: '28/03/2019'
+  EO-MT:
+  - artifact: ''
+    newEntry: false
+  TestReport:
+  - artifact: ''
+    link: ''
+  ENM:
+  - artifact: 'ENM 18.18 (ISO Version: 1.67.83'
+    newEntry: false
+  EO-SO:
+  - artifact: '1.2.1449'
+    link: 'https://arm.rnd.ki.sw.ericsson.se/artifactory/proj-adp-helm-dev-generic-local/cd/sandbox/eso/baseline/eric-eo-so-1.2.1449.tgz'
+    newEntry: true
+    buildNumber: 0
+  EO-CM:
+  - artifact: 'R18.2.0.0.1904.1080'
+    link: 'https://arm.epk.ericsson.se/artifactory/proj-ecm-product-generic-local/ecm/product/all/18.2.0.0.1904.1080/'
+    newEntry: false
+  VNF-LCM-Versions:
+  - artifact: '19.05'
+    link: ''
+    newEntry: false
+  - artifact: '5.3.15'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/media/ERICvnflcmossrcatlas_CXP9034147/5.1.12/ERICvnflcmossrcatlas_CXP9034147-5.3,15.tar'
+    newEntry: false
+  Real-VNF Packages:
+  - artifact: 'EPG2.4.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/EPG2.4.zip?version=2&modificationDate=1548434060000&api=v2'
+  - artifact: 'EPG2.4_resources.tar.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/EPG2.4_resources.tar.zip?version=1&modificationDate=1548347197000&api=v2'
+  Dummy-Package:
+  - artifact: 'Test 1 artifacts.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%201%20artifacts.zip?version=1&modificationDate=1543326112000&api=v2'
+    newEntry: false
+  - artifact: 'Test 3 Artifacts.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%203%20Artifacts.zip?version=1&modificationDate=1546518263000&api=v2'
+    newEntry: false
+  Dummy-Image-Deployed:
+  - artifact: 'ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/4.8.13/ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+    newEntry: false
+  Dummy-Workflow-Version:
+  - artifact: '2.4.26'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/content/groups/public/com/ericsson/vnflcm/examples/workflows/ERICvnflaf_CXP123456/2.4.26/ERICvnflaf_CXP123456-2.4.26.rpm'
+    newEntry: false
+  Status: 'terminal'
+
+-
+  Date: '27/03/2019'
+  EO-MT:
+  - artifact: ''
+    newEntry: false
+  TestReport:
+  - artifact: ''
+    link: ''
+  ENM:
+  - artifact: 'ENM 18.18 (ISO Version: 1.67.83'
+    newEntry: false
+  EO-SO:
+  - artifact: '1.2.1441'
+    link: 'https://arm.rnd.ki.sw.ericsson.se/artifactory/proj-adp-helm-dev-generic-local/cd/sandbox/eso/baseline/eric-eo-so-1.2.1441.tgz'
+    newEntry: true
+    buildNumber: 0
+  EO-CM:
+  - artifact: 'R18.2.0.0.1904.1079'
+    link: 'https://arm.epk.ericsson.se/artifactory/proj-ecm-product-generic-local/ecm/product/all/18.2.0.0.1904.1079/'
+    newEntry: false
+  VNF-LCM-Versions:
+  - artifact: '19.05'
+    link: ''
+    newEntry: false
+  - artifact: '5.3.15'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/media/ERICvnflcmossrcatlas_CXP9034147/5.1.12/ERICvnflcmossrcatlas_CXP9034147-5.3,15.tar'
+    newEntry: false
+  Real-VNF Packages:
+  - artifact: 'EPG2.4.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/EPG2.4.zip?version=2&modificationDate=1548434060000&api=v2'
+  - artifact: 'EPG2.4_resources.tar.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/EPG2.4_resources.tar.zip?version=1&modificationDate=1548347197000&api=v2'
+  Dummy-Package:
+  - artifact: 'Test 1 artifacts.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%201%20artifacts.zip?version=1&modificationDate=1543326112000&api=v2'
+    newEntry: false
+  - artifact: 'Test 3 Artifacts.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%203%20Artifacts.zip?version=1&modificationDate=1546518263000&api=v2'
+    newEntry: false
+  Dummy-Image-Deployed:
+  - artifact: 'ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/4.8.13/ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+    newEntry: false
+  Dummy-Workflow-Version:
+  - artifact: '2.4.26'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/content/groups/public/com/ericsson/vnflcm/examples/workflows/ERICvnflaf_CXP123456/2.4.26/ERICvnflaf_CXP123456-2.4.26.rpm'
+    newEntry: false
+  Status: 'success'
+-
+  Date: '26/03/2019'
+  EO-MT:
+  - artifact: ''
+    newEntry: false
+  TestReport:
+  - artifact: ''
+    link: ''
+  ENM:
+  - artifact: 'ENM 18.18 (ISO Version: 1.67.83'
+    newEntry: false
+  EO-SO:
+  - artifact: '1.2.1438'
+    link: 'https://arm.rnd.ki.sw.ericsson.se/artifactory/proj-adp-helm-dev-generic-local/cd/sandbox/eso/baseline/eric-eo-so-1.2.1438.tgz'
+    newEntry: true
+    buildNumber: 0
+  EO-CM:
+  - artifact: 'R18.2.0.0.1904.1079'
+    link: 'https://arm.epk.ericsson.se/artifactory/proj-ecm-product-generic-local/ecm/product/all/18.2.0.0.1904.1079/'
+    newEntry: false
+  VNF-LCM-Versions:
+  - artifact: '19.05'
+    link: ''
+    newEntry: false
+  - artifact: '5.2.5'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/media/ERICvnflcmossrcatlas_CXP9034147/5.1.12/ERICvnflcmossrcatlas_CXP9034147-5.2,5.tar'
+    newEntry: false
+  Real-VNF Packages:
+  - artifact: 'EPG2.4.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/EPG2.4.zip?version=2&modificationDate=1548434060000&api=v2'
+  - artifact: 'EPG2.4_resources.tar.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/EPG2.4_resources.tar.zip?version=1&modificationDate=1548347197000&api=v2'
+  Dummy-Package:
+  - artifact: 'Test 1 artifacts.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%201%20artifacts.zip?version=1&modificationDate=1543326112000&api=v2'
+    newEntry: false
+  - artifact: 'Test 3 Artifacts.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%203%20Artifacts.zip?version=1&modificationDate=1546518263000&api=v2'
+    newEntry: false
+  Dummy-Image-Deployed:
+  - artifact: 'ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/4.8.13/ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+    newEntry: false
+  Dummy-Workflow-Version:
+  - artifact: '2.4.26'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/content/groups/public/com/ericsson/vnflcm/examples/workflows/ERICvnflaf_CXP123456/2.4.26/ERICvnflaf_CXP123456-2.4.26.rpm'
+    newEntry: false
+  Status: 'success'
+
+-
+  Date: '25/03/2019'
+  EO-MT:
+  - artifact: '18.2.42'
+    newEntry: false
+  TestReport:
+  - artifact: 'JOB SO-75'
+    link: 'https://fem101-eiffel052.lmera.ericsson.se:8443/jenkins/job/DO_ECM_SO_Automated_Integration_Test/75/cucumber-html-reports/overview-features.html'
+  ENM:
+  - artifact: 'ENM 18.18 (ISO Version: 1.67.83'
+    newEntry: false
+  EO-SO:
+  - artifact: '1.2.1389'
+    link: 'https://arm.rnd.ki.sw.ericsson.se/artifactory/proj-adp-helm-dev-generic-local/cd/sandbox/eso/baseline/eric-eo-so-1.2.1389.tgz'
+    newEntry: true
+    buildNumber: 0
+  EO-CM:
+  - artifact: 'R18.2.0.0.1904.1079'
+    link: 'https://arm.epk.ericsson.se/artifactory/proj-ecm-product-generic-local/ecm/product/all/18.2.0.0.1904.1079/'
+    newEntry: false
+  VNF-LCM-Versions:
+  - artifact: '19.05'
+    link: ''
+    newEntry: false
+  - artifact: '5.2.5'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/media/ERICvnflcmossrcatlas_CXP9034147/5.1.12/ERICvnflcmossrcatlas_CXP9034147-5.2,5.tar'
+    newEntry: false
+  Real-VNF Packages:
+  - artifact: 'EPG2.4.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/EPG2.4.zip?version=2&modificationDate=1548434060000&api=v2'
+  - artifact: 'EPG2.4_resources.tar.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/EPG2.4_resources.tar.zip?version=1&modificationDate=1548347197000&api=v2'
+  Dummy-Package:
+  - artifact: 'Test 1 artifacts.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%201%20artifacts.zip?version=1&modificationDate=1543326112000&api=v2'
+    newEntry: false
+  - artifact: 'Test 3 Artifacts.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%203%20Artifacts.zip?version=1&modificationDate=1546518263000&api=v2'
+    newEntry: false
+  Dummy-Image-Deployed:
+  - artifact: 'ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/4.8.13/ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+    newEntry: false
+  Dummy-Workflow-Version:
+  - artifact: '2.4.26'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/content/groups/public/com/ericsson/vnflcm/examples/workflows/ERICvnflaf_CXP123456/2.4.26/ERICvnflaf_CXP123456-2.4.26.rpm'
+    newEntry: false
+  Status: 'success'
+
+-
+  Date: '21/03/2019'
+  EO-MT:
+  - artifact: '---'
+    newEntry: false
+  TestReport:
+  - artifact: '---'
+    link: ''
+  ENM:
+  - artifact: 'ENM 18.18 (ISO Version: 1.67.83) AOM 901 151 R1C'
+    newEntry: false
+  EO-SO:
+  - artifact: '1.2.1410'
+    link: 'https://arm.rnd.ki.sw.ericsson.se/artifactory/proj-adp-helm-dev-generic-local/cd/sandbox/eso/baseline/eric-eo-so-1.2.1410.tgz'
+    newEntry: false
+    buildNumber: 0
+  EO-CM:
+  - artifact: 'R18.3.0.0.1905.1077'
+    link: 'https://arm.epk.ericsson.se/artifactory/proj-ecm-product-generic-local/ecm/product/all/18.2.0.0.1904.1077/'
+    newEntry: false
+  VNF-LCM-Versions:
+  - artifact: '19.05'
+    link: ''
+    newEntry: true
+  - artifact: '5.3.14'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/media/ERICvnflcmossrcatlas_CXP9034147/5.1.12/ERICvnflcmossrcatlas_CXP9034147-5.3.25.tar'
+    newEntry: true
+  Scale-In-And-Out:
+  - artifact: 'Instantiate, ScaleOut, Scale In, Heal, Terminate'
+    newEntry: true
+  Real-VNF-Test:
+  - artifact: 'EPG'
+    newEntry: false
+  Real-VNF Packages:
+  - artifact: 'EPG2.4.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/EPG2.4.zip?version=2&modificationDate=1548434060000&api=v2'
+  - artifact: 'EPG2.4_resources.tar.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/EPG2.4_resources.tar.zip?version=1&modificationDate=1548347197000&api=v2'
+  EO-Policy Framework:
+  - artifact: ''
+    link: ''
+  Dummy-Package:
+  - artifact: 'Test 1 artifacts.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%201%20artifacts.zip?version=1&modificationDate=1543326112000&api=v2'
+    newEntry: false
+  - artifact: 'Test 3 Artifacts.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%203%20Artifacts.zip?version=1&modificationDate=1546518263000&api=v2'
+    newEntry: false
+  Dummy-Image-Deployed:
+  - artifact: 'ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/4.8.13/ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+    newEntry: false
+  Dummy-Workflow-Version:
+  - artifact: '2.4.26'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/content/groups/public/com/ericsson/vnflcm/examples/workflows/ERICvnflaf_CXP123456/2.4.26/ERICvnflaf_CXP123456-2.4.26.rpm'
+    newEntry: true
+  Status: 'terminal'
+-
+  Date: '19/03/2019'
+  EO-MT:
+  - artifact: '18.2.41'
+    newEntry: false
+  TestReport:
+  - artifact: 'Job SO-68'
+    link: 'https://fem101-eiffel052.lmera.ericsson.se:8443/jenkins/job/DO_ECM_SO_Automated_Integration_Test/68/cucumber-html-reports/overview-features.html'
+  ENM:
+  - artifact: 'ENM 18.18 (ISO Version: 1.67.83) AOM 901 151 R1C'
+    newEntry: false
+  EO-SO:
+  - artifact: '1.2.1289'
+    link: 'https://arm.rnd.ki.sw.ericsson.se/artifactory/proj-adp-helm-dev-generic-local/cd/sandbox/eso/baseline/so-1.2.1289.tgz'
+    newEntry: false
+    buildNumber: 0
+  EO-CM:
+  - artifact: 'R18.3.0.0.1905.1077'
+    link: 'https://arm.epk.ericsson.se/artifactory/proj-ecm-product-generic-local/ecm/product/all/18.2.0.0.1904.1077/'
+    newEntry: false
+  VNF-LCM-Versions:
+  - artifact: '19.04'
+    link: ''
+    newEntry: true
+  - artifact: '5.2.5'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/media/ERICvnflcmossrcatlas_CXP9034147/5.1.12/ERICvnflcmossrcatlas_CXP9034147-5.2.5.tar'
+    newEntry: true
+  - artifact: '5.2.5'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/5.0.10/ERICrhelvnflafimage_CXP9032490-5.2.5.qcow2'
+    newEntry: true
+  - artifact: '4.2.5'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelpostgresimage_CXP9032491/4.0.11/ERICrhelpostgresimage_CXP9032491-4.1.14.qcow2'
+    newEntry: true
+  Scale-In-And-Out:
+  - artifact: 'Instantiate, ScaleOut, Scale In, Heal, Terminate'
+    newEntry: true
+  Real-VNF-Test:
+  - artifact: 'MME & Dummy VNF'
+    newEntry: false
+  Real-VNF Packages:
+  - artifact: 'EPG2.4.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/EPG2.4.zip?version=2&modificationDate=1548434060000&api=v2'
+  - artifact: 'EPG2.4_resources.tar.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/EPG2.4_resources.tar.zip?version=1&modificationDate=1548347197000&api=v2'
+  EO-Policy Framework:
+  - artifact: ''
+    link: ''
+  Dummy-Package:
+  - artifact: 'Test 1 artifacts.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%201%20artifacts.zip?version=1&modificationDate=1543326112000&api=v2'
+    newEntry: false
+  - artifact: 'Test 3 Artifacts.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%203%20Artifacts.zip?version=1&modificationDate=1546518263000&api=v2'
+    newEntry: false
+  Dummy-Image-Deployed:
+  - artifact: 'ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/4.8.13/ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+    newEntry: false
+  Dummy-Workflow-Version:
+  - artifact: '2.4.26'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/content/groups/public/com/ericsson/vnflcm/examples/workflows/ERICvnflaf_CXP123456/2.4.26/ERICvnflaf_CXP123456-2.4.26.rpm'
+    newEntry: true
+  Status: 'terminal'
+
+-
+  Date: '17/03/2019'
+  EO-MT:
+  - artifact: '18.2.41'
+    newEntry: false
+  TestReport:
+  - artifact: 'Job SO-67'
+    link: 'https://fem101-eiffel052.lmera.ericsson.se:8443/jenkins/job/DO_ECM_SO_Automated_Integration_Test/67/cucumber-html-reports/overview-features.html'
+  ENM:
+  - artifact: 'ENM 18.18 (ISO Version: 1.67.83) AOM 901 151 R1C'
+    newEntry: false
+  EO-SO:
+  - artifact: '1.2.1289'
+    link: 'https://arm.rnd.ki.sw.ericsson.se/artifactory/proj-adp-helm-dev-generic-local/cd/sandbox/eso/baseline/so-1.2.1289.tgz'
+    newEntry: false
+    buildNumber: 0
+  EO-CM:
+  - artifact: 'R18.3.0.0.1905.1077'
+    link: 'https://arm.epk.ericsson.se/artifactory/proj-ecm-product-generic-local/ecm/product/all/18.2.0.0.1904.1077/'
+    newEntry: false
+  VNF-LCM-Versions:
+  - artifact: '19.04'
+    link: ''
+    newEntry: true
+  - artifact: '5.2.5'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/media/ERICvnflcmossrcatlas_CXP9034147/5.1.12/ERICvnflcmossrcatlas_CXP9034147-5.2.5.tar'
+    newEntry: true
+  - artifact: '5.2.5'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/5.0.10/ERICrhelvnflafimage_CXP9032490-5.2.5.qcow2'
+    newEntry: true
+  - artifact: '4.2.5'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelpostgresimage_CXP9032491/4.0.11/ERICrhelpostgresimage_CXP9032491-4.1.14.qcow2'
+    newEntry: true
+  Scale-In-And-Out:
+  - artifact: 'Instantiate, ScaleOut, Scale In, Heal, Terminate'
+    newEntry: true
+  Real-VNF-Test:
+  - artifact: 'EPG'
+    newEntry: false
+  Real-VNF Packages:
+  - artifact: 'EPG2.4.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/EPG2.4.zip?version=2&modificationDate=1548434060000&api=v2'
+  - artifact: 'EPG2.4_resources.tar.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/EPG2.4_resources.tar.zip?version=1&modificationDate=1548347197000&api=v2'
+  EO-Policy Framework:
+  - artifact: ''
+    link: ''
+  Dummy-Package:
+  - artifact: 'Test 1 artifacts.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%201%20artifacts.zip?version=1&modificationDate=1543326112000&api=v2'
+    newEntry: false
+  - artifact: 'Test 3 Artifacts.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%203%20Artifacts.zip?version=1&modificationDate=1546518263000&api=v2'
+    newEntry: false
+  Dummy-Image-Deployed:
+  - artifact: 'ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/4.8.13/ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+    newEntry: false
+  Dummy-Workflow-Version:
+  - artifact: '2.4.26'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/content/groups/public/com/ericsson/vnflcm/examples/workflows/ERICvnflaf_CXP123456/2.4.26/ERICvnflaf_CXP123456-2.4.26.rpm'
+    newEntry: true
+  Status: 'success'
+
+-
+  Date: '16/03/2019'
+  EO-MT:
+  - artifact: '18.2.40'
+    newEntry: false
+  TestReport:
+  - artifact: '---'
+    link: ''
+  ENM:
+  - artifact: 'ENM 18.18 (ISO Version: 1.67.83) AOM 901 151 R1C'
+    newEntry: false
+  EO-SO:
+  - artifact: '1.2.1289'
+    link: 'https://arm.rnd.ki.sw.ericsson.se/artifactory/proj-adp-helm-dev-generic-local/cd/sandbox/eso/baseline/so-1.2.1289.tgz'
+    newEntry: false
+    buildNumber: 0
+  EO-CM:
+  - artifact: 'R18.3.0.0.1905.1077'
+    link: 'https://arm.epk.ericsson.se/artifactory/proj-ecm-product-generic-local/ecm/product/all/18.2.0.0.1904.1077/'
+    newEntry: false
+  VNF-LCM-Versions:
+  - artifact: '19.05'
+    link: ''
+    newEntry: true
+  - artifact: '5.3.14'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/media/ERICvnflcmossrcatlas_CXP9034147/5.1.12/ERICvnflcmossrcatlas_CXP9034147-5.3.25.tar'
+    newEntry: true
+  Scale-In-And-Out:
+  - artifact: 'Instantiate, ScaleOut, Scale In, Heal, Terminate'
+    newEntry: true
+  Real-VNF-Test:
+  - artifact: 'Failed'
+    newEntry: false
+  Real-VNF Packages:
+  - artifact: 'EPG2.4.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/EPG2.4.zip?version=2&modificationDate=1548434060000&api=v2'
+  - artifact: 'EPG2.4_resources.tar.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/EPG2.4_resources.tar.zip?version=1&modificationDate=1548347197000&api=v2'
+  EO-Policy Framework:
+  - artifact: ''
+    link: ''
+  Dummy-Package:
+  - artifact: 'Test 1 artifacts.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%201%20artifacts.zip?version=1&modificationDate=1543326112000&api=v2'
+    newEntry: false
+  - artifact: 'Test 3 Artifacts.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%203%20Artifacts.zip?version=1&modificationDate=1546518263000&api=v2'
+    newEntry: false
+  Dummy-Image-Deployed:
+  - artifact: 'ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/4.8.13/ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+    newEntry: false
+  Dummy-Workflow-Version:
+  - artifact: '2.4.26'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/content/groups/public/com/ericsson/vnflcm/examples/workflows/ERICvnflaf_CXP123456/2.4.26/ERICvnflaf_CXP123456-2.4.26.rpm'
+    newEntry: true
+  Status: 'terminal'
+-
+  Date: '14/03/2019'
+  EO-MT:
+  - artifact: '18.2.39'
+    newEntry: false
+  TestReport:
+  - artifact: '---'
+    link: ''
+  ENM:
+  - artifact: 'ENM 18.18 (ISO Version: 1.67.83) AOM 901 151 R1C'
+    newEntry: false
+  EO-SO:
+  - artifact: '1.2.1289'
+    link: 'https://arm.rnd.ki.sw.ericsson.se/artifactory/proj-adp-helm-dev-generic-local/cd/sandbox/eso/baseline/so-1.2.1289.tgz'
+    newEntry: false
+    buildNumber: 0
+  EO-CM:
+  - artifact: 'R18.3.0.0.1905.1074'
+    link: 'https://arm.epk.ericsson.se/artifactory/proj-ecm-product-generic-local/ecm/product/all/18.2.0.0.1904.1074/'
+    newEntry: false
+  VNF-LCM-Versions:
+  - artifact: '19.04'
+    link: ''
+    newEntry: true
+  - artifact: '5.2.5'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/media/ERICvnflcmossrcatlas_CXP9034147/5.1.12/ERICvnflcmossrcatlas_CXP9034147-5.2.5.tar'
+    newEntry: true
+  - artifact: '5.2.5'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/5.0.10/ERICrhelvnflafimage_CXP9032490-5.2.5.qcow2'
+    newEntry: true
+  - artifact: '4.2.5'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelpostgresimage_CXP9032491/4.0.11/ERICrhelpostgresimage_CXP9032491-4.1.14.qcow2'
+    newEntry: true
+  Scale-In-And-Out:
+  - artifact: 'Instantiate, ScaleOut, Scale In, Heal, Terminate'
+    newEntry: true
+  Real-VNF-Test:
+  - artifact: 'EPG tested and synced. with ENM. MME Queued for test'
+    newEntry: false
+  Real-VNF Packages:
+  - artifact: 'EPG2.4.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/EPG2.4.zip?version=2&modificationDate=1548434060000&api=v2'
+  - artifact: 'EPG2.4_resources.tar.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/EPG2.4_resources.tar.zip?version=1&modificationDate=1548347197000&api=v2'
+  EO-Policy Framework:
+  - artifact: ''
+    link: ''
+  Dummy-Package:
+  - artifact: 'Test 1 artifacts.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%201%20artifacts.zip?version=1&modificationDate=1543326112000&api=v2'
+    newEntry: false
+  - artifact: 'Test 3 Artifacts.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%203%20Artifacts.zip?version=1&modificationDate=1546518263000&api=v2'
+    newEntry: false
+  Dummy-Image-Deployed:
+  - artifact: 'ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/4.8.13/ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+    newEntry: false
+  Dummy-Workflow-Version:
+  - artifact: '2.4.26'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/content/groups/public/com/ericsson/vnflcm/examples/workflows/ERICvnflaf_CXP123456/2.4.26/ERICvnflaf_CXP123456-2.4.26.rpm'
+    newEntry: true
+  Status: 'establishment'
+
+-
+  Date: '14/03/2019'
+  EO-MT:
+  - artifact: '18.2.38'
+    newEntry: false
+  TestReport:
+  - artifact: '---'
+    link: ''
+  ENM:
+  - artifact: 'ENM 18.18 (ISO Version: 1.67.83) AOM 901 151 R1C'
+    newEntry: false
+  EO-SO:
+  - artifact: '1.2.1289'
+    link: 'https://arm.rnd.ki.sw.ericsson.se/artifactory/proj-adp-helm-dev-generic-local/cd/sandbox/eso/baseline/so-1.2.1289.tgz'
+    newEntry: false
+    buildNumber: 0
+  EO-CM:
+  - artifact: 'R18.3.0.0.1905.1079'
+    link: 'https://arm.epk.ericsson.se/artifactory/proj-ecm-product-generic-local/ecm/product/all/18.3.0.0.1905.1079'
+    newEntry: false
+  VNF-LCM-Versions:
+  - artifact: '19.04'
+    link: ''
+    newEntry: true
+  - artifact: '5.2.5'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/media/ERICvnflcmossrcatlas_CXP9034147/5.1.12/ERICvnflcmossrcatlas_CXP9034147-5.2.5.tar'
+    newEntry: true
+  - artifact: '5.2.5'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/5.0.10/ERICrhelvnflafimage_CXP9032490-5.2.5.qcow2'
+    newEntry: true
+  - artifact: '4.2.5'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelpostgresimage_CXP9032491/4.0.11/ERICrhelpostgresimage_CXP9032491-4.1.14.qcow2'
+    newEntry: true
+  Scale-In-And-Out:
+  - artifact: 'Instantiate, ScaleOut, Scale In, Heal, Terminate'
+    newEntry: true
+  Real-VNF-Test:
+  - artifact: 'EPG tested and synced. with ENM. MME Queued for test. vSBG Attempted with template issues encountered.'
+    newEntry: false
+  Real-VNF Packages:
+  - artifact: 'EPG2.4.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/EPG2.4.zip?version=2&modificationDate=1548434060000&api=v2'
+  - artifact: 'EPG2.4_resources.tar.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/EPG2.4_resources.tar.zip?version=1&modificationDate=1548347197000&api=v2'
+  EO-Policy Framework:
+  - artifact: ''
+    link: ''
+  Dummy-Package:
+  - artifact: 'Test 1 artifacts.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%201%20artifacts.zip?version=1&modificationDate=1543326112000&api=v2'
+    newEntry: false
+  - artifact: 'Test 3 Artifacts.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%203%20Artifacts.zip?version=1&modificationDate=1546518263000&api=v2'
+    newEntry: false
+  Dummy-Image-Deployed:
+  - artifact: 'ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/4.8.13/ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+    newEntry: false
+  Dummy-Workflow-Version:
+  - artifact: '2.4.26'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/content/groups/public/com/ericsson/vnflcm/examples/workflows/ERICvnflaf_CXP123456/2.4.26/ERICvnflaf_CXP123456-2.4.26.rpm'
+    newEntry: true
+  Status: 'terminal'
+
+-
+  Date: '14/03/2019'
+  EO-MT:
+  - artifact: '18.2.37'
+    newEntry: false
+  TestReport:
+  - artifact: '---'
+    link: ''
+  ENM:
+  - artifact: 'ENM 18.18 (ISO Version: 1.67.83) AOM 901 151 R1C'
+    newEntry: false
+  EO-SO:
+  - artifact: '1.2.1289'
+    link: 'https://arm.rnd.ki.sw.ericsson.se/artifactory/proj-adp-helm-dev-generic-local/cd/sandbox/eso/baseline/so-1.2.1289.tgz'
+    newEntry: false
+    buildNumber: 0
+  EO-CM:
+  - artifact: 'R18.3.0.0.1905.1080'
+    link: 'https://arm.epk.ericsson.se/artifactory/proj-ecm-product-generic-local/ecm/product/all/18.3.0.0.1905.1080'
+    newEntry: false
+  VNF-LCM-Versions:
+  - artifact: '19.04'
+    link: ''
+    newEntry: true
+  - artifact: '5.2.5'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/media/ERICvnflcmossrcatlas_CXP9034147/5.1.12/ERICvnflcmossrcatlas_CXP9034147-5.2.5.tar'
+    newEntry: true
+  - artifact: '5.2.5'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/5.0.10/ERICrhelvnflafimage_CXP9032490-5.2.5.qcow2'
+    newEntry: true
+  - artifact: '4.2.5'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelpostgresimage_CXP9032491/4.0.11/ERICrhelpostgresimage_CXP9032491-4.1.14.qcow2'
+    newEntry: true
+  Scale-In-And-Out:
+  - artifact: 'Instantiate, ScaleOut, Scale In, Heal, Terminate'
+    newEntry: true
+  Real-VNF-Test:
+  - artifact: 'EPG tested and synced. with ENM. MME Queued for test. vSBG Attempted with template issues encountered.'
+    newEntry: false
+  Real-VNF Packages:
+  - artifact: 'EPG2.4.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/EPG2.4.zip?version=2&modificationDate=1548434060000&api=v2'
+  - artifact: 'EPG2.4_resources.tar.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/EPG2.4_resources.tar.zip?version=1&modificationDate=1548347197000&api=v2'
+  EO-Policy Framework:
+  - artifact: ''
+    link: ''
+  Dummy-Package:
+  - artifact: 'Test 1 artifacts.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%201%20artifacts.zip?version=1&modificationDate=1543326112000&api=v2'
+    newEntry: false
+  - artifact: 'Test 3 Artifacts.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%203%20Artifacts.zip?version=1&modificationDate=1546518263000&api=v2'
+    newEntry: false
+  Dummy-Image-Deployed:
+  - artifact: 'ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/4.8.13/ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+    newEntry: false
+  Dummy-Workflow-Version:
+  - artifact: '2.4.26'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/content/groups/public/com/ericsson/vnflcm/examples/workflows/ERICvnflaf_CXP123456/2.4.26/ERICvnflaf_CXP123456-2.4.26.rpm'
+    newEntry: true
+  Status: 'terminal'
+
+-
+  Date: '12/03/2019'
+  EO-MT:
+    - artifact: '18.2.36'
+      newEntry: false
+  TestReport:
+    - artifact: 'Job SO-63'
+      link: 'https://fem101-eiffel052.lmera.ericsson.se:8443/jenkins/job/DO_ECM_SO_Automated_Integration_Test/63/cucumber-html-reports/overview-features.html'
+  ENM:
+    - artifact: 'ENM 18.18 (ISO Version: 1.67.83) AOM 901 151 R1CF'
+      newEntry: false
+  EO-SO:
+    - artifact: '1.2.1289'
+      link: 'https://arm.rnd.ki.sw.ericsson.se/artifactory/proj-adp-helm-dev-generic-local/cd/sandbox/eso/baseline/so-1.2.1289.tgz'
+      newEntry: false
+      buildNumber: 0
+  EO-CM:
+    - artifact: 'R18.2.0.0.1904.1074'
+      link: 'https://arm.epk.ericsson.se/artifactory/proj-ecm-product-generic-local/ecm/product/all/18.2.0.0.1904.1074/'
+      newEntry: true
+  VNF-LCM-Versions:
+    - artifact: '19.04'
+      link: ''
+      newEntry: true
+    - artifact: '5.2.5'
+      link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/media/ERICvnflcmossrcatlas_CXP9034147/5.1.12/ERICvnflcmossrcatlas_CXP9034147-5.2.5.tar'
+      newEntry: true
+    - artifact: '5.2.5'
+      link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/5.0.10/ERICrhelvnflafimage_CXP9032490-5.2.5.qcow2'
+      newEntry: true
+    - artifact: '4.2.5'
+      link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelpostgresimage_CXP9032491/4.0.11/ERICrhelpostgresimage_CXP9032491-4.1.14.qcow2'
+      newEntry: true
+  Scale-In-And-Out:
+    - artifact: 'Instantiate, ScaleOut, Scale In, Heal, Terminate'
+      newEntry: true
+  Real-VNF-Test:
+    - artifact: 'EPG tested and synced. with ENM. MME tested and synced. with ENM'
+      newEntry: false
+  Real-VNF Packages:
+    - artifact: 'EPG2.4.zip'
+      link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/EPG2.4.zip?version=2&modificationDate=1548434060000&api=v2'
+    - artifact: 'EPG2.4_resources.tar.zip'
+      link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/EPG2.4_resources.tar.zip?version=1&modificationDate=1548347197000&api=v2'
+  EO-Policy Framework:
+    - artifact: ''
+      link: ''
+  Dummy-Package:
+    - artifact: 'Test 1 artifacts.zip'
+      link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%201%20artifacts.zip?version=1&modificationDate=1543326112000&api=v2'
+      newEntry: false
+    - artifact: 'Test 3 Artifacts.zip'
+      link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%203%20Artifacts.zip?version=1&modificationDate=1546518263000&api=v2'
+      newEntry: false
+  Dummy-Image-Deployed:
+    - artifact: 'ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+      link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/4.8.13/ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+      newEntry: false
+  Dummy-Workflow-Version:
+    - artifact: '2.4.26'
+      link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/content/groups/public/com/ericsson/vnflcm/examples/workflows/ERICvnflaf_CXP123456/2.4.26/ERICvnflaf_CXP123456-2.4.26.rpm'
+      newEntry: true
+  Status: 'success'
+
+-
+  Date: '07/03/2019'
+  EO-MT:
+    - artifact: '18.2.35'
+      newEntry: false
+  TestReport:
+    - artifact: 'Job SO-60'
+      link: 'https://fem101-eiffel052.lmera.ericsson.se:8443/jenkins/job/DO_ECM_SO_Automated_Integration_Test/59/cucumber-html-reports/overview-features.html'
+      newEntry: true
+  ENM:
+    - artifact: 'ENM 18.18 (ISO Version: 1.67.83) AOM 901 151 R1CF'
+      newEntry: false
+  EO-SO:
+    - artifact: '1.2.1296'
+      link: 'https://arm.rnd.ki.sw.ericsson.se/artifactory/proj-adp-helm-dev-generic-local/cd/sandbox/eso/baseline/so-1.2.1296.tgz'
+      newEntry: false
+      buildNumber: 0
+  EO-CM:
+    - artifact: 'R18.2.0.0.1905.1074'
+      link: 'https://arm.epk.ericsson.se/artifactory/proj-ecm-product-generic-local/ecm/product/all/18.2.0.0.1904.1074/'
+      newEntry: true
+  VNF-LCM-Versions:
+    - artifact: '19.04'
+      link: ''
+      newEntry: true
+    - artifact: '5.2.5'
+      link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/media/ERICvnflcmossrcatlas_CXP9034147/5.1.12/ERICvnflcmossrcatlas_CXP9034147-5.2.5.tar'
+      newEntry: true
+    - artifact: '5.2.5'
+      link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/5.0.10/ERICrhelvnflafimage_CXP9032490-5.2.5.qcow2'
+      newEntry: true
+    - artifact: '4.2.5'
+      link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelpostgresimage_CXP9032491/4.0.11/ERICrhelpostgresimage_CXP9032491-4.1.14.qcow2'
+      newEntry: true
+  Scale-In-And-Out:
+    - artifact: 'Instantiate, ScaleOut, Scale In, Heal, Terminate'
+      newEntry: true
+  Real-VNF-Test:
+    - artifact: 'EPG tested and synced with ENM. MME Queued for test. vSBG Attempted with template issues encountered.'
+      newEntry: false
+  Real-VNF Packages:
+    - artifact: 'EPG2.4.zip'
+      link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/EPG2.4.zip?version=2&modificationDate=1548434060000&api=v2'
+    - artifact: 'EPG2.4_resources.tar.zip'
+      link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/EPG2.4_resources.tar.zip?version=1&modificationDate=1548347197000&api=v2'
+  EO-Policy Framework:
+    - artifact: ''
+      link: ''
+  Dummy-Package:
+    - artifact: 'Test 1 artifacts.zip'
+      link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%201%20artifacts.zip?version=1&modificationDate=1543326112000&api=v2'
+      newEntry: false
+    - artifact: 'Test 3 Artifacts.zip'
+      link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%203%20Artifacts.zip?version=1&modificationDate=1546518263000&api=v2'
+      newEntry: false
+  Dummy-Image-Deployed:
+    - artifact: 'ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+      link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/4.8.13/ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+      newEntry: false
+  Dummy-Workflow-Version:
+    - artifact: '2.4.26'
+      link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/content/groups/public/com/ericsson/vnflcm/examples/workflows/ERICvnflaf_CXP123456/2.4.26/ERICvnflaf_CXP123456-2.4.26.rpm'
+      newEntry: true
+  Status: 'success'
+-
+  Date: '05/03/2019'
+  EO-MT:
+    - artifact: '18.2.35'
+      newEntry: false
+  TestReport:
+    - artifact: 'Job SO-59'
+      link: 'https://fem101-eiffel052.lmera.ericsson.se:8443/jenkins/job/DO_ECM_SO_Automated_Integration_Test/59/cucumber-html-reports/overview-features.html'
+      newEntry: true
+  ENM:
+    - artifact: 'ENM 18.18 (ISO Version: 1.67.83) AOM 901 151 R1CF'
+      newEntry: false
+  EO-SO:
+    - artifact: '1.2.1296'
+      link: 'https://arm.rnd.ki.sw.ericsson.se/artifactory/proj-adp-helm-dev-generic-local/cd/sandbox/eso/baseline/so-1.2.1296.tgz'
+      newEntry: false
+      buildNumber: 0
+  EO-CM:
+    - artifact: 'R18.2.0.0.18.1067'
+      link: 'https://arm.epk.ericsson.se/artifactory/proj-ecm-product-generic-local/ecm/product/all/18.2.0.0.18.1067/'
+      newEntry: true
+  VNF-LCM-Versions:
+    - artifact: '19.04'
+      link: ''
+      newEntry: true
+    - artifact: '5.2.5'
+      link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/media/ERICvnflcmossrcatlas_CXP9034147/5.1.12/ERICvnflcmossrcatlas_CXP9034147-5.2.5.tar'
+      newEntry: true
+    - artifact: '5.2.5'
+      link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/5.0.10/ERICrhelvnflafimage_CXP9032490-5.2.5.qcow2'
+      newEntry: true
+    - artifact: '4.2.5'
+      link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelpostgresimage_CXP9032491/4.0.11/ERICrhelpostgresimage_CXP9032491-4.1.14.qcow2'
+      newEntry: true
+  Scale-In-And-Out:
+    - artifact: 'Instantiate, ScaleOut, Scale In, Heal, Teminate'
+      newEntry: true
+  Real-VNF-Test:
+    - artifact: 'vEPG tested from SO with Automation script. vMME manually tested from ECM 100% deployment.'
+      newEntry: true
+  Real-VNF Packages:
+    - artifact: 'EPG2.4.zip'
+      link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/EPG2.4.zip?version=2&modificationDate=1548434060000&api=v2'
+    - artifact: 'EPG2.4_resources.tar.zip'
+      link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/EPG2.4_resources.tar.zip?version=1&modificationDate=1548347197000&api=v2'
+  EO-Policy Framework:
+    - artifact: ''
+      link: ''
+  Dummy-Package:
+    - artifact: 'Test 1 artifacts.zip'
+      link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%201%20artifacts.zip?version=1&modificationDate=1543326112000&api=v2'
+      newEntry: false
+    - artifact: 'Test 3 Artifacts.zip'
+      link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%203%20Artifacts.zip?version=1&modificationDate=1546518263000&api=v2'
+      newEntry: false
+  Dummy-Image-Deployed:
+    - artifact: 'ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+      link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/4.8.13/ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+      newEntry: false
+  Dummy-Workflow-Version:
+    - artifact: '2.4.26'
+      link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/content/groups/public/com/ericsson/vnflcm/examples/workflows/ERICvnflaf_CXP123456/2.4.26/ERICvnflaf_CXP123456-2.4.26.rpm'
+      newEntry: true
+  Status: 'success'
+-
+  Date: '28/02/2019'
+  EO-MT:
+    - artifact: '18.2.34'
+      newEntry: false
+  TestReport:
+    - artifact: 'Job SO-58'
+      link: 'https://fem101-eiffel052.lmera.ericsson.se:8443/jenkins/job/DO_ECM_SO_Automated_Integration_Test/58/cucumber-html-reports/overview-features.html'
+  ENM:
+    - artifact: 'ENM 18.18 (ISO Version: 1.67.83) AOM 901 151 R1CF'
+      newEntry: false
+  EO-SO:
+    - artifact: '1.2.1296'
+      link: 'https://arm.rnd.ki.sw.ericsson.se/artifactory/proj-adp-helm-dev-generic-local/cd/sandbox/eso/baseline/so-1.2.1296.tgz'
+      newEntry: false
+      buildNumber: 0
+  EO-CM:
+    - artifact: 'R18.2.0.0.18.1063'
+      link: 'https://arm.epk.ericsson.se/artifactory/proj-ecm-product-generic-local/ecm/product/all/18.2.0.0.18.1063/'
+      newEntry: true
+  VNF-LCM-Versions:
+    - artifact: '19.04'
+      link: ''
+      newEntry: true
+    - artifact: '5.2.5'
+      link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/media/ERICvnflcmossrcatlas_CXP9034147/5.1.12/ERICvnflcmossrcatlas_CXP9034147-5.2.5.tar'
+      newEntry: true
+    - artifact: '5.2.5'
+      link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/5.0.10/ERICrhelvnflafimage_CXP9032490-5.2.5.qcow2'
+      newEntry: true
+    - artifact: '4.2.5'
+      link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelpostgresimage_CXP9032491/4.0.11/ERICrhelpostgresimage_CXP9032491-4.1.14.qcow2'
+      newEntry: true
+  Scale-In-And-Out:
+    - artifact: 'Instantiate, ScaleOut, Scale In, Heal, Teminate'
+      newEntry: true
+  Real-VNF-Test:
+    - artifact: 'vEPG tested from ECM with Automation script. vMME manually tested from ECM 100% deployment.'
+      newEntry: true
+  Real-VNF Packages:
+    - artifact: 'EPG2.4.zip'
+      link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/EPG2.4.zip?version=2&modificationDate=1548434060000&api=v2'
+    - artifact: 'EPG2.4_resources.tar.zip'
+      link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/EPG2.4_resources.tar.zip?version=1&modificationDate=1548347197000&api=v2'
+  EO-Policy Framework:
+    - artifact: ''
+      link: ''
+  Dummy-Package:
+    - artifact: 'Test 1 artifacts.zip'
+      link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%201%20artifacts.zip?version=1&modificationDate=1543326112000&api=v2'
+      newEntry: false
+    - artifact: 'Test 3 Artifacts.zip'
+      link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%203%20Artifacts.zip?version=1&modificationDate=1546518263000&api=v2'
+      newEntry: false
+  Dummy-Image-Deployed:
+    - artifact: 'ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+      link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/4.8.13/ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+      newEntry: false
+  Dummy-Workflow-Version:
+    - artifact: '2.4.26'
+      link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/content/groups/public/com/ericsson/vnflcm/examples/workflows/ERICvnflaf_CXP123456/2.4.26/ERICvnflaf_CXP123456-2.4.26.rpm'
+      newEntry: false
+  Status: 'success'
+
+-
+  Date: '22/02/2019'
+  EO-MT:
+    - artifact: '18.2.33'
+      newEntry: false
+  TestReport:
+    - artifact: 'Job SO-55'
+      link: 'https://fem101-eiffel052.lmera.ericsson.se:8443/jenkins/job/DO_ECM_SO_Automated_Integration_Test/55/cucumber-html-reports/overview-features.html'
+  ENM:
+    - artifact: 'ENM 18.18 (ISO Version: 1.67.83) AOM 901 151 R1CF'
+      newEntry: false
+  EO-SO:
+    - artifact: '1.2.1296'
+      link: 'https://arm.rnd.ki.sw.ericsson.se/artifactory/proj-adp-helm-dev-generic-local/cd/sandbox/eso/baseline/so-1.2.1296.tgz'
+      newEntry: true
+      buildNumber: 0
+  EO-CM:
+    - artifact: 'R18.2.0.0.18.1041'
+      link: 'https://arm.epk.ericsson.se/artifactory/proj-ecm-product-generic-local/ecm/product/all/18.2.0.0.18.1041/'
+      newEntry: false
+  VNF-LCM-Versions:
+    - artifact: '19.04'
+      link: ''
+      newEntry: true
+    - artifact: '5.2.5'
+      link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/media/ERICvnflcmossrcatlas_CXP9034147/5.1.12/ERICvnflcmossrcatlas_CXP9034147-5.2.5.tar'
+      newEntry: true
+    - artifact: '5.2.5'
+      link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/5.0.10/ERICrhelvnflafimage_CXP9032490-5.2.5.qcow2'
+      newEntry: true
+    - artifact: '4.2.5'
+      link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelpostgresimage_CXP9032491/4.0.11/ERICrhelpostgresimage_CXP9032491-4.1.14.qcow2'
+      newEntry: true
+  Scale-In-And-Out:
+    - artifact: 'Instantiate, ScaleOut, Scale In, Heal, Teminate'
+      newEntry: true
+  Real-VNF-Test:
+    - artifact: 'vEPG tested from ECM with Automation script. vMME manually tested from ECM 100% deployment.'
+      newEntry: true
+  Real-VNF Packages:
+    - artifact: 'EPG2.4.zip'
+      link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/EPG2.4.zip?version=2&modificationDate=1548434060000&api=v2'
+    - artifact: 'EPG2.4_resources.tar.zip'
+      link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/EPG2.4_resources.tar.zip?version=1&modificationDate=1548347197000&api=v2'
+  EO-Policy Framework:
+    - artifact: ''
+      link: ''
+  Dummy-Package:
+    - artifact: 'Test 1 artifacts.zip'
+      link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%201%20artifacts.zip?version=1&modificationDate=1543326112000&api=v2'
+      newEntry: false
+    - artifact: 'Test 3 Artifacts.zip'
+      link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%203%20Artifacts.zip?version=1&modificationDate=1546518263000&api=v2'
+      newEntry: false
+  Dummy-Image-Deployed:
+    - artifact: 'ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+      link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/4.8.13/ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+      newEntry: false
+  Dummy-Workflow-Version:
+    - artifact: '2.4.26'
+      link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/content/groups/public/com/ericsson/vnflcm/examples/workflows/ERICvnflaf_CXP123456/2.4.26/ERICvnflaf_CXP123456-2.4.26.rpm'
+      newEntry: false
+  Status: 'establishment'
+-
+  Date: '20/2/2019'
+  EO-MT:
+    - artifact: '18.2.33'
+      newEntry: false
+  TestReport:
+    - artifact: 'Job SO-55'
+      link: 'https://fem101-eiffel052.lmera.ericsson.se:8443/jenkins/job/DO_ECM_SO_Automated_Integration_Test/55/cucumber-html-reports/overview-features.html'
+      newEntry: true
+  ENM:
+    - artifact: 'ENM 18.18 (ISO Version: 1.67.83) AOM 901 151 R1CF'
+      newEntry: false
+  EO-SO:
+    - artifact: '1.2.1296'
+      link: 'https://arm.rnd.ki.sw.ericsson.se/artifactory/proj-adp-helm-dev-generic-local/cd/sandbox/eso/baseline/so-1.2.1296.tgz'
+      newEntry: false
+      buildNumber: 0
+  EO-CM:
+    - artifact: 'R18.2.0.0.18.1041'
+      link: 'https://arm.epk.ericsson.se/artifactory/proj-ecm-product-generic-local/ecm/product/all/18.2.0.0.18.1041/'
+      newEntry: false
+  VNF-LCM-Versions:
+    - artifact: '19.04'
+      link: ''
+      newEntry: true
+    - artifact: '5.2.5'
+      link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/media/ERICvnflcmossrcatlas_CXP9034147/5.1.12/ERICvnflcmossrcatlas_CXP9034147-5.2.5.tar'
+      newEntry: true
+    - artifact: '5.2.5'
+      link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/5.0.10/ERICrhelvnflafimage_CXP9032490-5.2.5.qcow2'
+      newEntry: true
+    - artifact: '4.2.5'
+      link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelpostgresimage_CXP9032491/4.0.11/ERICrhelpostgresimage_CXP9032491-4.1.14.qcow2'
+      newEntry: true
+  Scale-In-And-Out:
+    - artifact: 'Instantiate, ScaleOut, Scale In, Heal, Teminate'
+      newEntry: true
+  Real-VNF-Test:
+    - artifact: 'vEPG tested from ECM with Automation script. vMME manually tested from ECM 100% deployment.'
+      newEntry: true
+  Real-VNF Packages:
+    - artifact: 'EPG2.4.zip'
+      link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/EPG2.4.zip?version=2&modificationDate=1548434060000&api=v2'
+    - artifact: 'EPG2.4_resources.tar.zip'
+      link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/EPG2.4_resources.tar.zip?version=1&modificationDate=1548347197000&api=v2'
+  EO-Policy Framework:
+    - artifact: ''
+      link: ''
+  Dummy-Package:
+  - artifact: 'Test 1 artifacts.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%201%20artifacts.zip?version=1&modificationDate=1543326112000&api=v2'
+    newEntry: false
+  - artifact: 'Test 3 Artifacts.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%203%20Artifacts.zip?version=1&modificationDate=1546518263000&api=v2'
+    newEntry: false
+  Dummy-Image-Deployed:
+  - artifact: 'ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/4.8.13/ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+    newEntry: false
+  - artifact: ''
+    link: ''
+    newEntry:
+  Dummy-Workflow-Version:
+  - artifact: '2.4.26'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/content/groups/public/com/ericsson/vnflcm/examples/workflows/ERICvnflaf_CXP123456/2.4.26/ERICvnflaf_CXP123456-2.4.26.rpm'
+    newEntry: true
+  Status: 'success'
+-
+  Date: '19/2/2019'
+  EO-MT:
+    - artifact: '18.2.32'
+      newEntry: false
+  TestReport:
+    - artifact: 'Job SO-47'
+      link: 'https://fem101-eiffel052.lmera.ericsson.se:8443/jenkins/job/DO_ECM_SO_Automated_Integration_Test/47/cucumber-html-reports/overview-features.html'
+      newEntry: true
+  ENM:
+    - artifact: 'ENM 18.18 (ISO Version: 1.67.83) AOM 901 151 R1CF'
+      newEntry: false
+  EO-SO:
+    - artifact: '1.2.1289'
+      link: 'https://arm.rnd.ki.sw.ericsson.se/artifactory/proj-adp-helm-dev-generic-local/cd/sandbox/eso/baseline/so-1.2.1289.tgz'
+      newEntry: true
+      buildNumber: 0
+  EO-CM:
+    - artifact: 'R18.2.0.0.18.1041'
+      link: 'https://arm.epk.ericsson.se/artifactory/proj-ecm-product-generic-local/ecm/product/all/18.2.0.0.18.1041/'
+      newEntry: false
+  VNF-LCM-Versions:
+    - artifact: '19.04'
+      link: ''
+      newEntry: true
+    - artifact: '5.2.5'
+      link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/media/ERICvnflcmossrcatlas_CXP9034147/5.1.12/ERICvnflcmossrcatlas_CXP9034147-5.2.5.tar'
+      newEntry: true
+    - artifact: '5.2.5'
+      link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/5.0.10/ERICrhelvnflafimage_CXP9032490-5.2.5.qcow2'
+      newEntry: true
+    - artifact: '4.2.5'
+      link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelpostgresimage_CXP9032491/4.0.11/ERICrhelpostgresimage_CXP9032491-4.1.14.qcow2'
+      newEntry: true
+  Scale-In-And-Out:
+    - artifact: ''
+      newEntry:
+  Real-VNF-Test:
+    - artifact: 'vEPG tested from ECM with Automation script. vMME manually tested 60% deployment.'
+      newEntry: true
+  Real-VNF Packages:
+    - artifact: 'EPG2.4.zip'
+      link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/EPG2.4.zip?version=2&modificationDate=1548434060000&api=v2'
+    - artifact: 'EPG2.4_resources.tar.zip'
+      link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/EPG2.4_resources.tar.zip?version=1&modificationDate=1548347197000&api=v2'
+  EO-Policy Framework:
+    - artifact: ''
+      link: ''
+  Dummy-Package:
+    - artifact: 'Test 1 artifacts.zip'
+      link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%201%20artifacts.zip?version=1&modificationDate=1543326112000&api=v2'
+      newEntry: false
+    - artifact: 'Test 3 Artifacts.zip'
+      link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%203%20Artifacts.zip?version=1&modificationDate=1546518263000&api=v2'
+      newEntry: false
+  Dummy-Image-Deployed:
+    - artifact: 'ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+      link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/4.8.13/ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+      newEntry: false
+  Dummy-Workflow-Version:
+    - artifact: '2.3.41'
+      link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/content/groups/public/com/ericsson/vnflcm/examples/workflows/ERICvnflaf_CXP123456/2.3.41/ERICvnflaf_CXP123456-2.3.41.rpm'
+      newEntry: false
+  Status: 'success'
+-
+  Date: '18/2/2019'
+  EO-MT:
+    - artifact: '18.2.31'
+      newEntry: false
+  TestReport:
+    - artifact: 'Job SO-46'
+      link: 'https://fem101-eiffel052.lmera.ericsson.se:8443/jenkins/job/DO_ECM_SO_Automated_Integration_Test/46/cucumber-html-reports/overview-features.html'
+      newEntry: true
+  ENM:
+    - artifact: 'ENM 18.18 (ISO Version: 1.67.83) AOM 901 151 R1CF'
+      newEntry: false
+  EO-SO:
+    - artifact: '1.2.1289'
+      link: 'https://arm.rnd.ki.sw.ericsson.se/artifactory/proj-adp-helm-dev-generic-local/cd/sandbox/eso/baseline/so-1.2.1289.tgz'
+      newEntry: true
+      buildNumber: 0
+  EO-CM:
+    - artifact: 'R18.2.0.0.18.1041'
+      link: 'https://arm.epk.ericsson.se/artifactory/proj-ecm-product-generic-local/ecm/product/all/18.2.0.0.18.1041/'
+      newEntry: false
+  VNF-LCM-Versions:
+    - artifact: '19.03'
+      link: ''
+      newEntry: false
+    - artifact: '5.1.25'
+      link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/media/ERICvnflcmossrcatlas_CXP9034147/5.1.12/ERICvnflcmossrcatlas_CXP9034147-5.1.25.tar'
+      newEntry: false
+    - artifact: '5.1.14'
+      link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/5.0.10/ERICrhelvnflafimage_CXP9032490-5.1.14.qcow2'
+      newEntry: false
+    - artifact: '4.1.14'
+      link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelpostgresimage_CXP9032491/4.0.11/ERICrhelpostgresimage_CXP9032491-4.1.14.qcow2'
+      newEntry: false
+  Scale-In-And-Out:
+    - artifact: ''
+      newEntry:
+  Real-VNF-Test:
+    - artifact: ''
+      newEntry:
+  Real-VNF Packages:
+    - artifact: ''
+      link: ''
+  EO-Policy Framework:
+    - artifact: ''
+      link: ''
+  Dummy-Package:
+    - artifact: 'Test 1 artifacts.zip'
+      link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%201%20artifacts.zip?version=1&modificationDate=1543326112000&api=v2'
+      newEntry: false
+    - artifact: 'Test 3 Artifacts.zip'
+      link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%203%20Artifacts.zip?version=1&modificationDate=1546518263000&api=v2'
+      newEntry: false
+  Dummy-Image-Deployed:
+    - artifact: 'ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+      link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/4.8.13/ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+      newEntry: false
+  Dummy-Workflow-Version:
+    - artifact: '2.3.41'
+      link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/content/groups/public/com/ericsson/vnflcm/examples/workflows/ERICvnflaf_CXP123456/2.3.41/ERICvnflaf_CXP123456-2.3.41.rpm'
+      newEntry: false
+  Status: 'success'
+-
+  Date: '18/2/2019'
+  EO-MT:
+    - artifact: '18.2.30'
+      newEntry: false
+  TestReport:
+    - artifact: ''
+      link: ''
+      newEntry:
+  ENM:
+    - artifact: 'ENM 18.18 (ISO Version: 1.67.83) AOM 901 151 R1CF'
+      newEntry: false
+  EO-SO:
+    - artifact: '1.2.1288'
+      link: 'https://arm.rnd.ki.sw.ericsson.se/artifactory/proj-adp-helm-dev-generic-local/cd/sandbox/eso/baseline/so-1.2.1288.tgz'
+      newEntry: true
+      buildNumber: 0
+  EO-CM:
+    - artifact: 'R18.2.0.0.18.1041'
+      link: 'https://arm.epk.ericsson.se/artifactory/proj-ecm-product-generic-local/ecm/product/all/18.2.0.0.18.1041/'
+      newEntry: false
+  VNF-LCM-Versions:
+    - artifact: '19.03'
+      link: ''
+      newEntry: false
+    - artifact: '5.1.25'
+      link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/media/ERICvnflcmossrcatlas_CXP9034147/5.1.12/ERICvnflcmossrcatlas_CXP9034147-5.1.25.tar'
+      newEntry: false
+    - artifact: '5.1.14'
+      link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/5.0.10/ERICrhelvnflafimage_CXP9032490-5.1.14.qcow2'
+      newEntry: false
+    - artifact: '4.1.14'
+      link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelpostgresimage_CXP9032491/4.0.11/ERICrhelpostgresimage_CXP9032491-4.1.14.qcow2'
+      newEntry: false
+  Scale-In-And-Out:
+    - artifact: ''
+      newEntry:
+  Real-VNF-Test:
+    - artifact: ''
+      newEntry:
+  Real-VNF Packages:
+    - artifact: ''
+      link: ''
+  EO-Policy Framework:
+    - artifact: ''
+      link: ''
+  Dummy-Package:
+    - artifact: 'Test 1 artifacts.zip'
+      link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%201%20artifacts.zip?version=1&modificationDate=1543326112000&api=v2'
+      newEntry: false
+    - artifact: 'Test 3 Artifacts.zip'
+      link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%203%20Artifacts.zip?version=1&modificationDate=1546518263000&api=v2'
+      newEntry: false
+  Dummy-Image-Deployed:
+    - artifact: 'ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+      link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/4.8.13/ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+      newEntry: false
+  Dummy-Workflow-Version:
+    - artifact: '2.3.41'
+      link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/content/groups/public/com/ericsson/vnflcm/examples/workflows/ERICvnflaf_CXP123456/2.3.41/ERICvnflaf_CXP123456-2.3.41.rpm'
+      newEntry: false
+  Status: 'terminal'
+-
+  Date: '18/2/2019'
+  EO-MT:
+    - artifact: '18.2.28'
+      newEntry: false
+  TestReport:
+    - artifact: 'Job SO-42'
+      link: 'https://fem101-eiffel052.lmera.ericsson.se:8443/jenkins/job/DO_ECM_SO_Automated_Integration_Test/42/cucumber-html-reports/overview-features.html'
+      newEntry: true
+  ENM:
+    - artifact: 'ENM 18.18 (ISO Version: 1.67.83) AOM 901 151 R1CF'
+      newEntry: false
+  EO-SO:
+    - artifact: '1.2.1276'
+      link: 'https://arm.rnd.ki.sw.ericsson.se/artifactory/proj-adp-helm-dev-generic-local/cd/sandbox/eso/baseline/so-1.2.1288.tgz'
+      newEntry: false
+      buildNumber: 0
+  EO-CM:
+    - artifact: 'R18.2.0.0.18.1041'
+      link: 'https://arm.epk.ericsson.se/artifactory/proj-ecm-product-generic-local/ecm/product/all/18.2.0.0.18.1041/'
+      newEntry: false
+  VNF-LCM-Versions:
+    - artifact: '19.03'
+      link: ''
+      newEntry: false
+    - artifact: '5.1.25'
+      link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/media/ERICvnflcmossrcatlas_CXP9034147/5.1.12/ERICvnflcmossrcatlas_CXP9034147-5.1.25.tar'
+      newEntry: false
+    - artifact: '5.1.14'
+      link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/5.0.10/ERICrhelvnflafimage_CXP9032490-5.1.14.qcow2'
+      newEntry: false
+    - artifact: '4.1.14'
+      link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelpostgresimage_CXP9032491/4.0.11/ERICrhelpostgresimage_CXP9032491-4.1.14.qcow2'
+      newEntry: false
+  Scale-In-And-Out:
+    - artifact: ''
+      newEntry:
+  Real-VNF-Test:
+    - artifact: ''
+      newEntry:
+  Real-VNF Packages:
+    - artifact: ''
+      link: ''
+  EO-Policy Framework:
+    - artifact: ''
+      link: ''
+  Dummy-Package:
+    - artifact: 'Test 1 artifacts.zip'
+      link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%201%20artifacts.zip?version=1&modificationDate=1543326112000&api=v2'
+      newEntry: false
+    - artifact: 'Test 3 Artifacts.zip'
+      link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%203%20Artifacts.zip?version=1&modificationDate=1546518263000&api=v2'
+      newEntry: false
+  Dummy-Image-Deployed:
+    - artifact: 'ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+      link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/4.8.13/ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+      newEntry: false
+  Dummy-Workflow-Version:
+    - artifact: '2.3.41'
+      link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/content/groups/public/com/ericsson/vnflcm/examples/workflows/ERICvnflaf_CXP123456/2.3.41/ERICvnflaf_CXP123456-2.3.41.rpm'
+      newEntry: false
+  Status: 'success'
+-
+  Date: '18/2/2019'
+  EO-MT:
+    - artifact: '18.2.28'
+      newEntry: false
+  TestReport:
+    - artifact: ''
+      link: ''
+  ENM:
+    - artifact: 'ENM 18.18 (ISO Version: 1.67.83) AOM 901 151 R1CF'
+      newEntry: false
+  EO-SO:
+    - artifact: '1.2.1286'
+      link: 'https://arm.rnd.ki.sw.ericsson.se/artifactory/proj-adp-helm-dev-generic-local/cd/sandbox/eso/baseline/so-1.2.1286.tgz'
+      newEntry: true
+      buildNumber: 0
+  EO-CM:
+    - artifact: 'R18.2.0.0.18.1041'
+      link: 'https://arm.epk.ericsson.se/artifactory/proj-ecm-product-generic-local/ecm/product/all/18.2.0.0.18.1041/'
+      newEntry: false
+  VNF-LCM-Versions:
+    - artifact: '19.03'
+      link: ''
+      newEntry: false
+    - artifact: '5.1.25'
+      link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/media/ERICvnflcmossrcatlas_CXP9034147/5.1.12/ERICvnflcmossrcatlas_CXP9034147-5.1.25.tar'
+      newEntry: false
+    - artifact: '5.1.14'
+      link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/5.0.10/ERICrhelvnflafimage_CXP9032490-5.1.14.qcow2'
+      newEntry: false
+    - artifact: '4.1.14'
+      link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelpostgresimage_CXP9032491/4.0.11/ERICrhelpostgresimage_CXP9032491-4.1.14.qcow2'
+      newEntry: false
+  Scale-In-And-Out:
+    - artifact: ''
+      newEntry:
+  Real-VNF-Test:
+    - artifact: ''
+      newEntry:
+  Real-VNF Packages:
+    - artifact: ''
+      link: ''
+  EO-Policy Framework:
+    - artifact: ''
+      link: ''
+  Dummy-Package:
+    - artifact: 'Test 1 artifacts.zip'
+      link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%201%20artifacts.zip?version=1&modificationDate=1543326112000&api=v2'
+      newEntry: false
+    - artifact: 'Test 3 Artifacts.zip'
+      link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%203%20Artifacts.zip?version=1&modificationDate=1546518263000&api=v2'
+      newEntry: false
+  Dummy-Image-Deployed:
+    - artifact: 'ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+      link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/4.8.13/ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+      newEntry: false
+  Dummy-Workflow-Version:
+    - artifact: '2.3.41'
+      link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/content/groups/public/com/ericsson/vnflcm/examples/workflows/ERICvnflaf_CXP123456/2.3.41/ERICvnflaf_CXP123456-2.3.41.rpm'
+      newEntry: false
+  Status: 'terminal'
+-
+  Date: '15/2/2019'
+  EO-MT:
+    - artifact: '18.2.27'
+      newEntry: false
+  TestReport:
+    - artifact: ''
+      link: ''
+  ENM:
+    - artifact: 'ENM 18.18 (ISO Version: 1.67.83) AOM 901 151 R1CF'
+      newEntry: false
+  EO-SO:
+    - artifact: '1.2.1282'
+      link: 'https://arm.rnd.ki.sw.ericsson.se/artifactory/proj-adp-helm-dev-generic-local/cd/sandbox/eso/baseline/so-1.2.1282.tgz'
+      newEntry: true
+      buildNumber: 0
+  EO-CM:
+    - artifact: 'R18.2.0.0.18.1041'
+      link: 'https://arm.epk.ericsson.se/artifactory/proj-ecm-product-generic-local/ecm/product/all/18.2.0.0.18.1041/'
+      newEntry: false
+  VNF-LCM-Versions:
+    - artifact: '19.03'
+      link: ''
+      newEntry: false
+    - artifact: '5.1.25'
+      link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/media/ERICvnflcmossrcatlas_CXP9034147/5.1.12/ERICvnflcmossrcatlas_CXP9034147-5.1.25.tar'
+      newEntry: false
+    - artifact: '5.1.14'
+      link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/5.0.10/ERICrhelvnflafimage_CXP9032490-5.1.14.qcow2'
+      newEntry: false
+    - artifact: '4.1.14'
+      link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelpostgresimage_CXP9032491/4.0.11/ERICrhelpostgresimage_CXP9032491-4.1.14.qcow2'
+      newEntry: false
+  Scale-In-And-Out:
+    - artifact: ''
+      newEntry:
+  Real-VNF-Test:
+    - artifact: ''
+      newEntry:
+  Real-VNF Packages:
+    - artifact: ''
+      link: ''
+  EO-Policy Framework:
+    - artifact: ''
+      link: ''
+  Dummy-Package:
+    - artifact: 'Test 1 artifacts.zip'
+      link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%201%20artifacts.zip?version=1&modificationDate=1543326112000&api=v2'
+      newEntry: false
+    - artifact: 'Test 3 Artifacts.zip'
+      link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%203%20Artifacts.zip?version=1&modificationDate=1546518263000&api=v2'
+      newEntry: false
+  Dummy-Image-Deployed:
+    - artifact: 'ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+      link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/4.8.13/ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+      newEntry: false
+  Dummy-Workflow-Version:
+    - artifact: '2.3.41'
+      link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/content/groups/public/com/ericsson/vnflcm/examples/workflows/ERICvnflaf_CXP123456/2.3.41/ERICvnflaf_CXP123456-2.3.41.rpm'
+      newEntry: false
+  Status: 'success'
+-
+  Date: '14/2/2019'
+  EO-MT:
+    - artifact: '18.2.26'
+      newEntry: false
+  TestReport:
+    - artifact: ''
+      link: ''
+  ENM:
+    - artifact: 'ENM 18.18 (ISO Version: 1.67.83) AOM 901 151 R1CF'
+      newEntry: false
+  EO-SO:
+    - artifact: '1.2.1282'
+      link: 'https://arm.rnd.ki.sw.ericsson.se/artifactory/proj-adp-helm-dev-generic-local/cd/sandbox/eso/baseline/so-1.2.1282.tgz'
+      newEntry: true
+      buildNumber: 0
+  EO-CM:
+    - artifact: 'R18.2.0.0.18.1050'
+      link: 'https://arm.epk.ericsson.se/artifactory/proj-ecm-product-generic-local/ecm/product/all/18.2.0.0.18.1050/'
+      newEntry: true
+  VNF-LCM-Versions:
+    - artifact: '19.03'
+      link: ''
+      newEntry: true
+    - artifact: '5.1.25'
+      link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/media/ERICvnflcmossrcatlas_CXP9034147/5.1.12/ERICvnflcmossrcatlas_CXP9034147-5.1.25.tar'
+      newEntry: true
+    - artifact: '5.1.14'
+      link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/5.0.10/ERICrhelvnflafimage_CXP9032490-5.1.14.qcow2'
+      newEntry: true
+    - artifact: '4.1.14'
+      link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelpostgresimage_CXP9032491/4.0.11/ERICrhelpostgresimage_CXP9032491-4.1.14.qcow2'
+      newEntry: true
+  Scale-In-And-Out:
+    - artifact: ''
+      newEntry:
+  Real-VNF-Test:
+    - artifact: ''
+      newEntry:
+  Real-VNF Packages:
+    - artifact: ''
+      link: ''
+  EO-Policy Framework:
+    - artifact: ''
+      link: ''
+  Dummy-Package:
+    - artifact: 'Test 1 artifacts.zip'
+      link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%201%20artifacts.zip?version=1&modificationDate=1543326112000&api=v2'
+      newEntry: false
+    - artifact: 'Test 3 Artifacts.zip'
+      link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%203%20Artifacts.zip?version=1&modificationDate=1546518263000&api=v2'
+      newEntry: false
+  Dummy-Image-Deployed:
+    - artifact: 'ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+      link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/4.8.13/ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+      newEntry: false
+  Dummy-Workflow-Version:
+    - artifact: '2.3.41'
+      link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/content/groups/public/com/ericsson/vnflcm/examples/workflows/ERICvnflaf_CXP123456/2.3.41/ERICvnflaf_CXP123456-2.3.41.rpm'
+      newEntry: false
+  Status: 'terminal'
+-
+  Date: '12/2/2019'
+  EO-MT:
+    - artifact: '18.2.25'
+      newEntry: false
+  TestReport:
+    - artifact: 'Full Test with automated Heal'
+      newEntry: true
+    - artifact: 'Job SO-37'
+      link: 'https://fem101-eiffel052.lmera.ericsson.se:8443/jenkins/job/DO_ECM_SO_Automated_Integration_Test/37/cucumber-html-reports/overview-features.html'
+      newEntry: true
+  ENM:
+    - artifact: 'ENM 18.18 (ISO Version: 1.67.83) AOM 901 151 R1CF'
+      newEntry: false
+  EO-SO:
+    - artifact: '1.2.1276'
+      link: 'https://arm.rnd.ki.sw.ericsson.se/artifactory/proj-adp-helm-dev-generic-local/cd/sandbox/eso/baseline/so-1.2.1276.tgz'
+      newEntry: true
+      buildNumber: 0
+  EO-CM:
+    - artifact: 'R18.2.0.0.18.1041'
+      link: 'https://arm.epk.ericsson.se/artifactory/proj-ecm-product-generic-local/ecm/product/all/18.2.0.0.18.1041/'
+      newEntry: true
+  VNF-LCM-Versions:
+    - artifact: '19.03'
+      link: ''
+      newEntry: true
+    - artifact: '5.1.25'
+      link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/media/ERICvnflcmossrcatlas_CXP9034147/5.1.12/ERICvnflcmossrcatlas_CXP9034147-5.1.25.tar'
+      newEntry: true
+    - artifact: '5.1.14'
+      link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/5.0.10/ERICrhelvnflafimage_CXP9032490-5.1.14.qcow2'
+      newEntry: true
+    - artifact: '4.1.14'
+      link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelpostgresimage_CXP9032491/4.0.11/ERICrhelpostgresimage_CXP9032491-4.1.14.qcow2'
+      newEntry: true
+  Scale-In-And-Out:
+    - artifact: 'yes'
+      newEntry: true
+  Real-VNF-Test:
+    - artifact: 'vEPG deployment from SO'
+      newEntry: true
+  Real-VNF Packages:
+    - artifact: 'EPG2.4.zip'
+      link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/EPG2.4.zip?version=2&modificationDate=1548434060000&api=v2'
+    - artifact: 'EPG2.4_resources.tar.zip'
+      link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/EPG2.4_resources.tar.zip?version=1&modificationDate=1548347197000&api=v2'
+  EO-Policy Framework:
+    - artifact: ''
+      link: ''
+  Dummy-Package:
+    - artifact: 'Test 1 artifacts.zip'
+      link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%201%20artifacts.zip?version=1&modificationDate=1543326112000&api=v2'
+      newEntry: false
+    - artifact: 'Test 3 Artifacts.zip'
+      link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%203%20Artifacts.zip?version=1&modificationDate=1546518263000&api=v2'
+      newEntry: false
+  Dummy-Image-Deployed:
+    - artifact: 'ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+      link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/4.8.13/ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+      newEntry: false
+  Dummy-Workflow-Version:
+    - artifact: '2.3.41'
+      link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/content/groups/public/com/ericsson/vnflcm/examples/workflows/ERICvnflaf_CXP123456/2.3.41/ERICvnflaf_CXP123456-2.3.41.rpm'
+      newEntry: false
+  Status: 'success'
+-
+  Date: '7/2/2019'
+  EO-MT:
+    - artifact: '18.2.24'
+      newEntry: false
+  TestReport:
+    - artifact: ''
+      link: ''
+  ENM:
+    - artifact: 'ENM 18.18 (ISO Version: 1.67.83) AOM 901 151 R1CF'
+      newEntry: false
+  EO-SO:
+    - artifact: '1.2.1272'
+      link: 'https://arm.rnd.ki.sw.ericsson.se/artifactory/proj-adp-helm-dev-generic-local/cd/sandbox/eso/baseline/so-1.2.1272.tgz'
+      newEntry: true
+      buildNumber: 0
+  EO-CM:
+    - artifact: 'R18.2.0.0.18.1041'
+      link: 'https://arm.epk.ericsson.se/artifactory/proj-ecm-product-generic-local/ecm/product/all/18.2.0.0.18.1041/'
+      newEntry: true
+  VNF-LCM-Versions:
+    - artifact: '19.03'
+      link: ''
+      newEntry: true
+    - artifact: '5.1.25'
+      link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/media/ERICvnflcmossrcatlas_CXP9034147/5.1.12/ERICvnflcmossrcatlas_CXP9034147-5.1.25.tar'
+      newEntry: true
+    - artifact: '5.1.14'
+      link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/5.0.10/ERICrhelvnflafimage_CXP9032490-5.1.14.qcow2'
+      newEntry: true
+    - artifact: '4.1.14'
+      link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelpostgresimage_CXP9032491/4.0.11/ERICrhelpostgresimage_CXP9032491-4.1.14.qcow2'
+      newEntry: true
+  Scale-In-And-Out:
+    - artifact: 'yes'
+      newEntry: true
+  Real-VNF-Test:
+    - artifact: ''
+      newEntry: false
+  Real-VNF Packages:
+    - artifact: 'EPG2.4.zip'
+      link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/EPG2.4.zip?version=2&modificationDate=1548434060000&api=v2'
+    - artifact: 'EPG2.4_resources.tar.zip'
+      link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/EPG2.4_resources.tar.zip?version=1&modificationDate=1548347197000&api=v2'
+  EO-Policy Framework:
+    - artifact: ''
+      link: ''
+  Dummy-Package:
+    - artifact: 'Test 1 artifacts.zip'
+      link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%201%20artifacts.zip?version=1&modificationDate=1543326112000&api=v2'
+      newEntry: false
+    - artifact: 'Test 3 Artifacts.zip'
+      link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%203%20Artifacts.zip?version=1&modificationDate=1546518263000&api=v2'
+      newEntry: false
+  Dummy-Image-Deployed:
+    - artifact: 'ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+      link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/4.8.13/ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+      newEntry: false
+  Dummy-Workflow-Version:
+    - artifact: '2.3.41'
+      link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/content/groups/public/com/ericsson/vnflcm/examples/workflows/ERICvnflaf_CXP123456/2.3.41/ERICvnflaf_CXP123456-2.3.41.rpm'
+      newEntry: false
+  Status: 'terminal'
+-
+  Date: '6/2/2019'
+  EO-MT:
+    - artifact: '18.2.23'
+      newEntry: false
+  TestReport:
+    - artifact: 'Full Test with automated Heal'
+      newEntry: true
+    - artifact: 'Job SO-35'
+      link: 'https://fem101-eiffel052.lmera.ericsson.se:8443/jenkins/job/DO_ECM_Automated_Integration_Test/35/cucumber-html-reports/overview-features.html'
+      newEntry: true
+    - artifact: 'Original Verfication'
+    - artifact: 'Job SO-33'
+      link: 'https://fem101-eiffel052.lmera.ericsson.se:8443/jenkins/job/DO_ECM_Automated_Integration_Test/33/cucumber-html-reports/overview-features.html'
+      newEntry: false
+  ENM:
+    - artifact: 'ENM 18.18 (ISO Version: 1.67.83) AOM 901 151 R1CF'
+      newEntry: false
+  EO-SO:
+    - artifact: '1.2.1261'
+      link: 'https://arm.rnd.ki.sw.ericsson.se/artifactory/proj-adp-helm-dev-generic-local/cd/sandbox/eso/baseline/so-1.2.1261.tgz'
+      newEntry: true
+      buildNumber: 0
+  EO-CM:
+    - artifact: 'R18.2.0.0.18.1038'
+      link: 'https://arm.epk.ericsson.se/artifactory/proj-ecm-product-generic-local/ecm/product/all/18.2.0.0.18.1038/'
+      newEntry: true
+  VNF-LCM-Versions:
+    - artifact: '19.03'
+      link: ''
+      newEntry: false
+    - artifact: '5.1.15'
+      link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/media/ERICvnflcmossrcatlas_CXP9034147/5.1.12/ERICvnflcmossrcatlas_CXP9034147-5.1.15.tar'
+      newEntry: false
+    - artifact: '5.1.3'
+      link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/5.0.10/ERICrhelvnflafimage_CXP9032490-5.1.3.qcow2'
+      newEntry: false
+    - artifact: '4.1.3'
+      link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelpostgresimage_CXP9032491/4.0.11/ERICrhelpostgresimage_CXP9032491-4.1.3.qcow2'
+      newEntry: false
+  Scale-In-And-Out:
+    - artifact: 'Automated test of Scale out - in and Heal passed'
+      newEntry: true
+  Real-VNF-Test:
+    - artifact: 'vEPG Manual Deployment passed.'
+      newEntry: true
+  Real-VNF Packages:
+    - artifact: 'EPG2.4.zip'
+      link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/EPG2.4.zip?version=2&modificationDate=1548434060000&api=v2'
+    - artifact: 'EPG2.4_resources.tar.zip'
+      link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/EPG2.4_resources.tar.zip?version=1&modificationDate=1548347197000&api=v2'
+  EO-Policy Framework:
+    - artifact: ''
+      link: ''
+  Dummy-Package:
+    - artifact: 'Test 1 artifacts.zip'
+      link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%201%20artifacts.zip?version=1&modificationDate=1543326112000&api=v2'
+      newEntry: false
+    - artifact: 'Test 3 Artifacts.zip'
+      link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%203%20Artifacts.zip?version=1&modificationDate=1546518263000&api=v2'
+      newEntry: false
+  Dummy-Image-Deployed:
+    - artifact: 'ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+      link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/4.8.13/ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+      newEntry: false
+  Dummy-Workflow-Version:
+    - artifact: '2.3.41'
+      link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/content/groups/public/com/ericsson/vnflcm/examples/workflows/ERICvnflaf_CXP123456/2.3.41/ERICvnflaf_CXP123456-2.3.41.rpm'
+      newEntry: false
+  Status: 'success'
+
+-
+  Date: '1/2/2019'
+  EO-MT:
+  - artifact: '18.2.22'
+    newEntry: false
+  TestReport:
+  - artifact: 'Job SO-22'
+    link: 'https://fem101-eiffel052.lmera.ericsson.se:8443/jenkins/job/DO_ECM_Automated_Integration_Test/22/cucumber-html-reports/overview-features.html'
+  ENM:
+  - artifact: 'ENM 18.18 (ISO Version: 1.67.83) AOM 901 151 R1CF'
+    newEntry: false
+  EO-SO:
+  - artifact: '1.2.1258'
+    link: 'https://arm.rnd.ki.sw.ericsson.se/artifactory/proj-adp-helm-dev-generic-local/cd/sandbox/eso/baseline/so-1.2.1258.tgz'
+    newEntry: true
+    buildNumber: 0
+  EO-CM:
+  - artifact: 'R18.2.0.0.18.1036'
+    link: 'https://arm.epk.ericsson.se/artifactory/proj-ecm-product-generic-local/ecm/product/all/18.2.0.0.18.1036/'
+    newEntry: true
+  VNF-LCM-Versions:
+  - artifact: '19.03'
+    link: ''
+    newEntry: false
+  - artifact: '5.1.15'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/media/ERICvnflcmossrcatlas_CXP9034147/5.1.12/ERICvnflcmossrcatlas_CXP9034147-5.1.15.tar'
+    newEntry: false
+  - artifact: '5.1.3'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/5.0.10/ERICrhelvnflafimage_CXP9032490-5.1.3.qcow2'
+    newEntry: false
+  - artifact: '4.1.3'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelpostgresimage_CXP9032491/4.0.11/ERICrhelpostgresimage_CXP9032491-4.1.3.qcow2'
+    newEntry: false
+  Scale-In-And-Out:
+  - artifact: 'Automated test pass'
+    newEntry: true
+  Real-VNF-Test:
+  - artifact: ''
+    newEntry: false
+  Real-VNF Packages:
+  - artifact: 'EPG2.4.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/EPG2.4.zip?version=2&modificationDate=1548434060000&api=v2'
+  - artifact: 'EPG2.4_resources.tar.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/EPG2.4_resources.tar.zip?version=1&modificationDate=1548347197000&api=v2'
+  EO-Policy Framework:
+  - artifact: ''
+    link: ''
+  Dummy-Package:
+  - artifact: 'Test 1 artifacts.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%201%20artifacts.zip?version=1&modificationDate=1543326112000&api=v2'
+    newEntry: false
+  - artifact: 'Test 3 Artifacts.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%203%20Artifacts.zip?version=1&modificationDate=1546518263000&api=v2'
+    newEntry: false
+  Dummy-Image-Deployed:
+  - artifact: 'ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/4.8.13/ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+    newEntry: false
+  Dummy-Workflow-Version:
+  - artifact: '2.3.41'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/content/groups/public/com/ericsson/vnflcm/examples/workflows/ERICvnflaf_CXP123456/2.3.41/ERICvnflaf_CXP123456-2.3.41.rpm'
+    newEntry: false
+  Status: 'success'
+
+-
+  Date: '24/1/2019'
+  EO-MT:
+  - artifact: '18.2.21'
+    newEntry: false
+  TestReport:
+  - artifact: 'Job SO-13'
+    link: 'https://fem101-eiffel052.lmera.ericsson.se:8443/jenkins/job/DO_ECM_Automated_Integration_Test/13/cucumber-html-reports/overview-features.html'
+  ENM:
+  - artifact: 'ENM 18.18 (ISO Version: 1.67.83) AOM 901 151 R1CF'
+    newEntry: false
+  EO-SO:
+  - artifact: '1.2.1245'
+    link: 'https://arm.rnd.ki.sw.ericsson.se/artifactory/proj-adp-helm-dev-generic-local/cd/sandbox/eso/baseline/so-1.2.1245.tgz'
+    newEntry: false
+    buildNumber: 0
+  EO-CM:
+  - artifact: 'R18.2.0.0.18.1017'
+    link: 'https://arm.epk.ericsson.se/artifactory/proj-ecm-product-generic-local/ecm/product/all/18.2.0.0.18.1017/'
+    newEntry: false
+  VNF-LCM-Versions:
+  - artifact: '19.03 -'
+    link: ''
+    newEntry: false
+  - artifact: '5.1.15 -'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/media/ERICvnflcmossrcatlas_CXP9034147/5.1.12/ERICvnflcmossrcatlas_CXP9034147-5.1.15.tar'
+    newEntry: false
+  - artifact: '5.1.3 -'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/5.0.10/ERICrhelvnflafimage_CXP9032490-5.1.3.qcow2'
+    newEntry: false
+  - artifact: '4.1.3 -'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelpostgresimage_CXP9032491/4.0.11/ERICrhelpostgresimage_CXP9032491-4.1.3.qcow2'
+    newEntry: false
+  Scale-In-And-Out:
+  - artifact: ''
+    newEntry:
+  Real-VNF-Test:
+  - artifact: 'vEPG Manual deployment passed.'
+    newEntry: true
+  Real-VNF Packages:
+  - artifact: 'EPG2.4.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/EPG2.4.zip?version=2&modificationDate=1548434060000&api=v2'
+  - artifact: 'EPG2.4_resources.tar.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/EPG2.4_resources.tar.zip?version=1&modificationDate=1548347197000&api=v2'
+  EO-Policy Framework:
+  - artifact: ''
+    link: ''
+  Dummy-Package:
+  - artifact: 'Test 1 artifacts.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%201%20artifacts.zip?version=1&modificationDate=1543326112000&api=v2'
+    newEntry: false
+  - artifact: 'Test 3 artifacts.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%203%20Artifacts.zip?version=1&modificationDate=1546518263000&api=v2'
+    newEntry: false
+  Dummy-Image-Deployed:
+  - artifact: 'ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/4.8.13/ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+    newEntry: false
+  Dummy-Workflow-Version:
+  - artifact: '2.3.41'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/content/groups/public/com/ericsson/vnflcm/examples/workflows/ERICvnflaf_CXP123456/2.3.41/ERICvnflaf_CXP123456-2.3.41.rpm'
+    newEntry: false
+  Status: 'success'
+
+-
+  Date: '24/1/2019'
+  EO-MT:
+  - artifact: '18.2.20'
+    newEntry: false
+  TestReport:
+  - artifact: 'Job SO-11'
+    link: 'https://fem101-eiffel052.lmera.ericsson.se:8443/jenkins/job/DO_ECM_Automated_Integration_Test/11/'
+  ENM:
+  - artifact: 'ENM 18.18 (ISO Version: 1.67.83) AOM 901 151 R1CF'
+    newEntry: false
+  EO-SO:
+  - artifact: '1.2.1241'
+    link: 'https://arm.rnd.ki.sw.ericsson.se/artifactory/proj-adp-helm-dev-generic-local/cd/sandbox/eso/baseline/so-1.2.1241.tgz'
+    newEntry: false
+    buildNumber: 0
+  EO-CM:
+  - artifact: 'R18.2.0.0.18.1017'
+    link: 'https://arm.epk.ericsson.se/artifactory/proj-ecm-product-generic-local/ecm/product/all/18.2.0.0.18.1004/'
+    newEntry: false
+  VNF-LCM-Versions:
+  - artifact: '19.03 -'
+    link: ''
+    newEntry: false
+  - artifact: '5.1.15 -'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/media/ERICvnflcmossrcatlas_CXP9034147/5.1.12/ERICvnflcmossrcatlas_CXP9034147-5.1.15.tar'
+    newEntry: false
+  - artifact: '5.1.3 -'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/5.0.10/ERICrhelvnflafimage_CXP9032490-5.1.3.qcow2'
+    newEntry: false
+  - artifact: '4.1.3 -'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelpostgresimage_CXP9032491/4.0.11/ERICrhelpostgresimage_CXP9032491-4.1.3.qcow2'
+    newEntry: false
+  Scale-In-And-Out:
+  - artifact: ''
+    newEntry:
+  Real-VNF-Test:
+  - artifact: ''
+    newEntry:
+  Real-VNF Packages:
+  - artifact: ''
+    newEntry:
+  EO-Policy Framework:
+  - artifact: ''
+    link: ''
+  Dummy-Package:
+  - artifact: 'Test 1 artifacts.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%201%20artifacts.zip?version=1&modificationDate=1543326112000&api=v2'
+    newEntry: false
+  - artifact: 'Test 3 artifacts.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%203%20Artifacts.zip?version=1&modificationDate=1546518263000&api=v2'
+    newEntry: false
+  Dummy-Image-Deployed:
+  - artifact: 'ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/4.8.13/ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+    newEntry: false
+  Dummy-Workflow-Version:
+  - artifact: '2.3.41'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/content/groups/public/com/ericsson/vnflcm/examples/workflows/ERICvnflaf_CXP123456/2.3.41/ERICvnflaf_CXP123456-2.3.41.rpm'
+    newEntry: false
+  Status: 'success'
+
+-
+  Date: '18/1/2019'
+  EO-MT:
+  - artifact: '18.2.19'
+    newEntry: false
+  TestReport:
+  - artifact: 'Job SO-06'
+    link: 'https://fem101-eiffel052.lmera.ericsson.se:8443/jenkins/job/DO_ECM_Automated_Integration_Test/6/cucumber-html-reports/overview-features.html'
+  ENM:
+  - artifact: 'ENM 18.18 (ISO Version: 1.67.83) AOM 901 151 R1CF'
+    newEntry: false
+  EO-SO:
+  - artifact: '1.2.1234'
+    link: 'https://arm.rnd.ki.sw.ericsson.se/artifactory/proj-adp-helm-dev-generic-local/cd/sandbox/eso/baseline/so-1.2.1234.tgz'
+    newEntry: true
+    buildNumber: 0
+  EO-CM:
+  - artifact: 'R18.2.0.0.18.1004'
+    link: 'https://arm.epk.ericsson.se/artifactory/proj-ecm-product-generic-local/ecm/product/all/18.2.0.0.18.1004/'
+    newEntry: false
+  VNF-LCM-Versions:
+  - artifact: '19.02 -'
+    link: ''
+    newEntry: false
+  - artifact: '5.1.12 -'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/media/ERICvnflcmossrcatlas_CXP9034147/5.1.12/ERICvnflcmossrcatlas_CXP9034147-5.1.12.tar'
+    newEntry: false
+  - artifact: '5.0.10 -'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/5.0.10/ERICrhelvnflafimage_CXP9032490-5.0.10.qcow2'
+    newEntry: false
+  - artifact: '4.0.11 -'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelpostgresimage_CXP9032491/4.0.11/ERICrhelpostgresimage_CXP9032491-4.0.11.qcow2'
+    newEntry: false
+  Scale-In-And-Out:
+  - artifact: ''
+    newEntry:
+  Real-VNF-Test:
+  - artifact: 'vEPG Manual deployment failed. 85%'
+    newEntry: true
+  Real-VNF Packages:
+  - artifact: ''
+    newEntry:
+  EO-Policy Framework:
+  - artifact: ''
+    link: ''
+  Dummy-Package:
+  - artifact: 'Test 1 artifacts.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%201%20artifacts.zip?version=1&modificationDate=1543326112000&api=v2'
+    newEntry: false
+  - artifact: 'Test 3 artifacts.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%203%20Artifacts.zip?version=1&modificationDate=1546518263000&api=v2'
+    newEntry: false
+  Dummy-Image-Deployed:
+  - artifact: 'ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/4.8.13/ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+    newEntry: false
+  Dummy-Workflow-Version:
+  - artifact: '2.3.41'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/content/groups/public/com/ericsson/vnflcm/examples/workflows/ERICvnflaf_CXP123456/2.3.41/ERICvnflaf_CXP123456-2.3.41.rpm'
+    newEntry: false
+  Status: 'running'
+
+-
+  Date: '17/1/2019'
+  EO-MT:
+  - artifact: '18.2.18'
+    newEntry: false
+  TestReport:
+  - artifact: 'Job 266'
+    link: 'https://fem101-eiffel052.lmera.ericsson.se:8443/jenkins/job/DO_ECM_Automated_Activity/266/cucumber-html-reports/overview-features.html'
+  ENM:
+  - artifact: 'ENM 18.18 (ISO Version: 1.67.83) AOM 901 151 R1CF'
+    newEntry: false
+  EO-SO:
+  - artifact: '1.2.1227'
+    link: 'https://arm.rnd.ki.sw.ericsson.se/artifactory/proj-adp-helm-dev-generic-local/cd/sandbox/eso/baseline/so-1.2.1227.tgz'
+    newEntry: true
+    buildNumber: 0
+  EO-CM:
+  - artifact: 'R18.2.0.0.18.1004'
+    link: 'https://arm.epk.ericsson.se/artifactory/proj-ecm-product-generic-local/ecm/product/all/18.2.0.0.18.1004/'
+    newEntry: false
+  VNF-LCM-Versions:
+  - artifact: '19.02 -'
+    link: ''
+    newEntry: false
+  - artifact: '5.1.12 -'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/media/ERICvnflcmossrcatlas_CXP9034147/5.1.12/ERICvnflcmossrcatlas_CXP9034147-5.1.12.tar'
+    newEntry: false
+  - artifact: '5.0.10 -'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/5.0.10/ERICrhelvnflafimage_CXP9032490-5.0.10.qcow2'
+    newEntry: false
+  - artifact: '4.0.11 -'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelpostgresimage_CXP9032491/4.0.11/ERICrhelpostgresimage_CXP9032491-4.0.11.qcow2'
+    newEntry: false
+  Scale-In-And-Out:
+  - artifact: 'Tested'
+    newEntry: true
+  Real-VNF-Test:
+  - artifact: 'vEPG Manual deployment failed. 70%'
+    newEntry: true
+  EO-Policy Framework:
+  - artifact: ''
+    link: ''
+  Real-VNF Packages:
+  - artifact: ''
+    newEntry:
+  Dummy-Package:
+  - artifact: 'Test 1 artifacts.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%201%20artifacts.zip?version=1&modificationDate=1543326112000&api=v2'
+    newEntry: false
+  - artifact: 'Test 3 artifacts.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%203%20Artifacts.zip?version=1&modificationDate=1546518263000&api=v2'
+    newEntry: false
+  Dummy-Image-Deployed:
+  - artifact: 'ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/4.8.13/ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+    newEntry: false
+  Dummy-Workflow-Version:
+  - artifact: '2.3.41'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/content/groups/public/com/ericsson/vnflcm/examples/workflows/ERICvnflaf_CXP123456/2.3.41/ERICvnflaf_CXP123456-2.3.41.rpm'
+    newEntry: false
+  Status: 'terminal'
+
+-
+  Date: '16/1/2019'
+  EO-MT:
+  - artifact: '18.2.18'
+    newEntry: false
+  TestReport:
+  - artifact: 'Job 266'
+    link: 'https://fem101-eiffel052.lmera.ericsson.se:8443/jenkins/job/DO_ECM_Automated_Activity/266/cucumber-html-reports/overview-features.html'
+  ENM:
+  - artifact: 'ENM 18.18 (ISO Version: 1.67.83) AOM 901 151 R1CF'
+    newEntry: false
+  EO-SO:
+  - artifact: '1.2.1227'
+    link: 'https://arm.rnd.ki.sw.ericsson.se/artifactory/proj-adp-helm-dev-generic-local/cd/sandbox/eso/baseline/so-1.2.1227.tgz'
+    newEntry: true
+    buildNumber: 0
+  EO-CM:
+  - artifact: 'R18.2.0.0.18.1004'
+    link: 'https://arm.epk.ericsson.se/artifactory/proj-ecm-product-generic-local/ecm/product/all/18.2.0.0.18.1004/'
+    newEntry: false
+  VNF-LCM-Versions:
+  - artifact: '19.02 -'
+    link: ''
+    newEntry: false
+  - artifact: '5.1.12 -'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/media/ERICvnflcmossrcatlas_CXP9034147/5.1.12/ERICvnflcmossrcatlas_CXP9034147-5.1.12.tar'
+    newEntry: false
+  - artifact: '5.0.10 -'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/5.0.10/ERICrhelvnflafimage_CXP9032490-5.0.10.qcow2'
+    newEntry: false
+  - artifact: '4.0.11 -'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelpostgresimage_CXP9032491/4.0.11/ERICrhelpostgresimage_CXP9032491-4.0.11.qcow2'
+    newEntry: false
+  Scale-In-And-Out:
+  - artifact: ''
+    newEntry:
+  Real-VNF-Test:
+  - artifact: ''
+    newEntry:
+  Real-VNF Packages:
+  - artifact: ''
+    newEntry:
+  EO-Policy Framework:
+  - artifact: ''
+    link: ''
+  Dummy-Package:
+  - artifact: 'Test 1 artifacts.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%201%20artifacts.zip?version=1&modificationDate=1543326112000&api=v2'
+    newEntry: false
+  - artifact: 'Test 3 artifacts.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%203%20Artifacts.zip?version=1&modificationDate=1546518263000&api=v2'
+    newEntry: false
+  Dummy-Image-Deployed:
+  - artifact: 'ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/4.8.13/ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+    newEntry: false
+  Dummy-Workflow-Version:
+  - artifact: '2.3.41'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/content/groups/public/com/ericsson/vnflcm/examples/workflows/ERICvnflaf_CXP123456/2.3.41/ERICvnflaf_CXP123456-2.3.41.rpm'
+    newEntry: false
+  Status: 'success'
+
+-
+  Date: '16/1/2019'
+  EO-MT:
+  - artifact: '18.2.17'
+    newEntry: false
+  TestReport:
+  - artifact: 'Job 265'
+    link: 'https://fem101-eiffel052.lmera.ericsson.se:8443/jenkins/job/DO_ECM_Automated_Activity/265/cucumber-html-reports/overview-features.html'
+  ENM:
+  - artifact: 'ENM 18.18 (ISO Version: 1.67.83) AOM 901 151 R1CF'
+    newEntry: false
+  EO-SO:
+  - artifact: '1.2.1225'
+    link: 'https://arm.rnd.ki.sw.ericsson.se/artifactory/proj-adp-helm-dev-generic-local/cd/sandbox/eso/baseline/so-1.2.1225.tgz'
+    newEntry: true
+    buildNumber: 0
+  EO-CM:
+  - artifact: 'R18.2.0.0.18.1004'
+    link: 'https://arm.epk.ericsson.se/artifactory/proj-ecm-product-generic-local/ecm/product/all/18.2.0.0.18.1004/'
+    newEntry: false
+  VNF-LCM-Versions:
+  - artifact: '19.02 -'
+    link: ''
+    newEntry: false
+  - artifact: '5.1.12 -'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/media/ERICvnflcmossrcatlas_CXP9034147/5.1.12/ERICvnflcmossrcatlas_CXP9034147-5.1.12.tar'
+    newEntry: false
+  - artifact: '5.0.10 -'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/5.0.10/ERICrhelvnflafimage_CXP9032490-5.0.10.qcow2'
+    newEntry: false
+  - artifact: '4.0.11 -'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelpostgresimage_CXP9032491/4.0.11/ERICrhelpostgresimage_CXP9032491-4.0.11.qcow2'
+    newEntry: false
+  Scale-In-And-Out:
+  - artifact: ''
+    newEntry:
+  Real-VNF-Test:
+  - artifact: ''
+    newEntry:
+  Real-VNF Packages:
+  - artifact: ''
+    newEntry:
+  EO-Policy Framework:
+  - artifact: ''
+    link: ''
+  Dummy-Package:
+  - artifact: 'Test 1 artifacts.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%201%20artifacts.zip?version=1&modificationDate=1543326112000&api=v2'
+    newEntry: false
+  - artifact: 'Test 3 artifacts.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%203%20Artifacts.zip?version=1&modificationDate=1546518263000&api=v2'
+    newEntry: false
+  Dummy-Image-Deployed:
+  - artifact: 'ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/4.8.13/ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+    newEntry: false
+  Dummy-Workflow-Version:
+  - artifact: '2.3.41'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/content/groups/public/com/ericsson/vnflcm/examples/workflows/ERICvnflaf_CXP123456/2.3.41/ERICvnflaf_CXP123456-2.3.41.rpm'
+    newEntry: false
+  Status: 'success'
+
+-
+  Date: '15/1/2019'
+  EO-MT:
+  - artifact: '18.2.16'
+    newEntry: false
+  TestReport:
+  - artifact: 'Job 261'
+    link: 'https://fem101-eiffel052.lmera.ericsson.se:8443/jenkins/job/DO_ECM_Automated_Activity/261/cucumber-html-reports/overview-features.html'
+  ENM:
+  - artifact: 'ENM 18.18 (ISO Version: 1.67.83) AOM 901 151 R1CF'
+    newEntry: false
+  EO-SO:
+  - artifact: '1.2.1222'
+    link: 'https://arm.rnd.ki.sw.ericsson.se/artifactory/proj-adp-helm-dev-generic-local/cd/sandbox/eso/baseline/so-1.2.1222.tgz'
+    newEntry: true
+    buildNumber: 0
+  EO-CM:
+  - artifact: 'R18.2.0.0.18.1004'
+    link: 'https://arm.epk.ericsson.se/artifactory/proj-ecm-product-generic-local/ecm/product/all/18.2.0.0.18.1004/'
+    newEntry: false
+  VNF-LCM-Versions:
+  - artifact: '19.02 -'
+    link: ''
+    newEntry: false
+  - artifact: '5.1.12 -'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/media/ERICvnflcmossrcatlas_CXP9034147/5.1.12/ERICvnflcmossrcatlas_CXP9034147-5.1.12.tar'
+    newEntry: false
+  - artifact: '5.0.10 -'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/5.0.10/ERICrhelvnflafimage_CXP9032490-5.0.10.qcow2'
+    newEntry: false
+  - artifact: '4.0.11 -'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelpostgresimage_CXP9032491/4.0.11/ERICrhelpostgresimage_CXP9032491-4.0.11.qcow2'
+    newEntry: false
+  Scale-In-And-Out:
+  - artifact: ''
+    newEntry:
+  Real-VNF-Test:
+  - artifact: ''
+    newEntry:
+  Real-VNF Packages:
+  - artifact: ''
+    newEntry:
+  EO-Policy Framework:
+  - artifact: ''
+    link: ''
+  Dummy-Package:
+  - artifact: 'Test 1 artifacts.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%201%20artifacts.zip?version=1&modificationDate=1543326112000&api=v2'
+    newEntry: false
+  - artifact: 'Test 3 artifacts.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%203%20Artifacts.zip?version=1&modificationDate=1546518263000&api=v2'
+    newEntry: false
+  Dummy-Image-Deployed:
+  - artifact: 'ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/4.8.13/ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+    newEntry: false
+  Dummy-Workflow-Version:
+  - artifact: '2.3.41'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/content/groups/public/com/ericsson/vnflcm/examples/workflows/ERICvnflaf_CXP123456/2.3.41/ERICvnflaf_CXP123456-2.3.41.rpm'
+    newEntry: false
+  Status: 'success'
+
+-
+  Date: '15/1/2019'
+  EO-MT:
+  - artifact: '18.2.15'
+    newEntry: false
+  TestReport:
+  - artifact: 'Job 253'
+    link: 'https://fem101-eiffel052.lmera.ericsson.se:8443/jenkins/job/DO_ECM_Automated_Activity/253/cucumber-html-reports/overview-features.html'
+  ENM:
+  - artifact: 'ENM 18.18 (ISO Version: 1.67.83) AOM 901 151 R1CF'
+    newEntry: false
+  EO-SO:
+  - artifact: '1.2.1220'
+    link: 'https://arm.rnd.ki.sw.ericsson.se/artifactory/proj-adp-helm-dev-generic-local/cd/sandbox/eso/baseline/so-1.2.1220.tzg'
+    newEntry: true
+    buildNumber: 0
+  EO-CM:
+  - artifact: 'R18.2.0.0.18.1004'
+    link: 'https://arm.epk.ericsson.se/artifactory/proj-ecm-product-generic-local/ecm/product/all/18.2.0.0.18.1004/'
+    newEntry: false
+  VNF-LCM-Versions:
+  - artifact: '19.02 -'
+    link: ''
+    newEntry: false
+  - artifact: '5.1.12 -'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/media/ERICvnflcmossrcatlas_CXP9034147/5.1.12/ERICvnflcmossrcatlas_CXP9034147-5.1.12.tar'
+    newEntry: false
+  - artifact: '5.0.10 -'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/5.0.10/ERICrhelvnflafimage_CXP9032490-5.0.10.qcow2'
+    newEntry: false
+  - artifact: '4.0.11 -'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelpostgresimage_CXP9032491/4.0.11/ERICrhelpostgresimage_CXP9032491-4.0.11.qcow2'
+    newEntry: false
+  Scale-In-And-Out:
+  - artifact: ''
+    newEntry:
+  Real-VNF-Test:
+  - artifact: ''
+    newEntry:
+  Real-VNF Packages:
+  - artifact: ''
+    newEntry:
+  EO-Policy Framework:
+  - artifact: ''
+    link: ''
+  Dummy-Package:
+  - artifact: 'Test 1 artifacts.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%201%20artifacts.zip?version=1&modificationDate=1543326112000&api=v2'
+    newEntry: false
+  - artifact: 'Test 3 artifacts.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%203%20Artifacts.zip?version=1&modificationDate=1546518263000&api=v2'
+    newEntry: false
+  Dummy-Image-Deployed:
+  - artifact: 'ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/4.8.13/ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+    newEntry: false
+  Dummy-Workflow-Version:
+  - artifact: '2.3.41'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/content/groups/public/com/ericsson/vnflcm/examples/workflows/ERICvnflaf_CXP123456/2.3.41/ERICvnflaf_CXP123456-2.3.41.rpm'
+    newEntry: false
+  Status: 'success'
+
+-
+  Date: '14/1/2019'
+  EO-MT:
+  - artifact: '18.2.14'
+    newEntry: false
+  TestReport:
+  - artifact: 'Job 252'
+    link: 'https://fem101-eiffel052.lmera.ericsson.se:8443/jenkins/job/DO_ECM_Automated_Activity/252/cucumber-html-reports/overview-features.html'
+  ENM:
+  - artifact: 'ENM 18.18 (ISO Version: 1.67.83) AOM 901 151 R1CF'
+    newEntry: false
+  EO-SO:
+  - artifact: '1.2.1218'
+    link: 'https://arm.rnd.ki.sw.ericsson.se/artifactory/proj-adp-helm-dev-generic-local/cd/sandbox/eso/baseline/so-1.2.1218.tzg'
+    newEntry: true
+    buildNumber: 0
+  EO-CM:
+  - artifact: 'R18.2.0.0.18.1004'
+    link: 'https://arm.epk.ericsson.se/artifactory/proj-ecm-product-generic-local/ecm/product/all/18.2.0.0.18.1004/'
+    newEntry: false
+  VNF-LCM-Versions:
+  - artifact: '19.02 -'
+    link: ''
+    newEntry: false
+  - artifact: '5.1.12 -'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/media/ERICvnflcmossrcatlas_CXP9034147/5.1.12/ERICvnflcmossrcatlas_CXP9034147-5.1.12.tar'
+    newEntry: false
+  - artifact: '5.0.10 -'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/5.0.10/ERICrhelvnflafimage_CXP9032490-5.0.10.qcow2'
+    newEntry: false
+  - artifact: '4.0.11'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelpostgresimage_CXP9032491/4.0.11/ERICrhelpostgresimage_CXP9032491-4.0.11.qcow2'
+    newEntry: false
+  Scale-In-And-Out:
+  - artifact: ''
+    newEntry:
+  Real-VNF-Test:
+  - artifact: ''
+    newEntry:
+  Real-VNF Packages:
+  - artifact: ''
+    newEntry:
+  EO-Policy Framework:
+  - artifact: ''
+    link: ''
+  Dummy-Package:
+  - artifact: 'Test 1 artifacts.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%201%20artifacts.zip?version=1&modificationDate=1543326112000&api=v2'
+    newEntry: false
+  - artifact: 'Test 3 Artifacts.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%203%20Artifacts.zip?version=1&modificationDate=1546518263000&api=v2'
+    newEntry: false
+  Dummy-Image-Deployed:
+  - artifact: 'ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/4.8.13/ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+    newEntry: false
+  Dummy-Workflow-Version:
+  - artifact: '2.3.41'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/content/groups/public/com/ericsson/vnflcm/examples/workflows/ERICvnflaf_CXP123456/2.3.41/ERICvnflaf_CXP123456-2.3.41.rpm'
+    newEntry: false
+  Status: 'success'
+-
+  Date: '14/1/2019'
+  EO-MT:
+  - artifact: '18.2.13'
+    newEntry: false
+  TestReport:
+  - artifact: 'Job 251'
+    link: 'https://fem101-eiffel052.lmera.ericsson.se:8443/jenkins/job/DO_ECM_Automated_Activity/251/cucumber-html-reports/overview-features.html'
+  ENM:
+  - artifact: 'ENM 18.18 (ISO Version: 1.67.83) AOM 901 151 R1CF'
+    newEntry: false
+  EO-SO:
+  - artifact: '1.2.1190'
+    link: 'https://arm.rnd.ki.sw.ericsson.se/artifactory/proj-adp-helm-dev-generic-local/cd/sandbox/eso/baseline/so-1.2.1190.tgz'
+    newEntry: false
+    buildNumber: 0
+  EO-CM:
+  - artifact: 'R18.2.0.0.18.1004'
+    link: 'https://arm.epk.ericsson.se/artifactory/proj-ecm-product-generic-local/ecm/product/all/18.2.0.0.18.1004/'
+    newEntry: false
+  VNF-LCM-Versions:
+  - artifact: '19.02 -'
+    link: ''
+    newEntry: true
+  - artifact: '5.1.12 -'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/media/ERICvnflcmossrcatlas_CXP9034147/5.1.12/ERICvnflcmossrcatlas_CXP9034147-5.1.12.tar'
+    newEntry: true
+  - artifact: '5.0.10 -'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/5.0.10/ERICrhelvnflafimage_CXP9032490-5.0.10.qcow2'
+    newEntry: true
+  - artifact: '4.0.11'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelpostgresimage_CXP9032491/4.0.11/ERICrhelpostgresimage_CXP9032491-4.0.11.qcow2'
+    newEntry: true
+  Scale-In-And-Out:
+  - artifact: ''
+    newEntry:
+  Real-VNF-Test:
+  - artifact: ''
+    newEntry:
+  Real-VNF Packages:
+  - artifact: ''
+    newEntry:
+  EO-Policy Framework:
+  - artifact: ''
+    link: ''
+  Dummy-Package:
+  - artifact: 'Test 1 artifacts.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%201%20artifacts.zip?version=1&modificationDate=1543326112000&api=v2'
+    newEntry: false
+  - artifact: 'Test 3 artifacts.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%203%20Artifacts.zip?version=1&modificationDate=1546518263000&api=v2'
+    newEntry: false
+  Dummy-Image-Deployed:
+  - artifact: 'ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/4.8.13/ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+    newEntry: false
+  Dummy-Workflow-Version:
+  - artifact: '2.3.41'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/content/groups/public/com/ericsson/vnflcm/examples/workflows/ERICvnflaf_CXP123456/2.3.41/ERICvnflaf_CXP123456-2.3.41.rpm'
+    newEntry: false
+  Status: 'success'
+-
+  Date: '9/1/2019'
+  EO-MT:
+  - artifact: '18.2.12'
+    newEntry : false
+  TestReport:
+  - artifact: 'Job 238'
+    link: 'https://fem101-eiffel052.lmera.ericsson.se:8443/jenkins/job/DO_ECM_Automated_Activity/238/cucumber-html-reports/overview-features.html'
+  ENM:
+  - artifact: '18.18 (ISO Version - 1.67.83) AOM 901 151 R1CF'
+    newEntry: false
+  EO-SO:
+  - artifact: '1.2.1190'
+    newEntry: true
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%203%20Artifacts.zip?version=1&modificationDate=1546518263000&api=v2'
+    buildNumber: 0
+  EO-CM:
+  - artifact: 'R18.2.0.0.18.1004'
+    link: 'https://arm.epk.ericsson.se/artifactory/proj-ecm-product-generic-local/ecm/product/all/18.2.0.0.18.1004/'
+    newEntry: true
+  VNF-LCM-Versions:
+  - artifact: '19.02'
+    link: ''
+    newEntry: false
+  - artifact: '5.0.18'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/media/ERICvnflcmossrcatlas_CXP9034147/4.9.15/ERICvnflcmossrcatlas_CXP9034147-4.9.15.tar'
+    newEntry: false
+  - artifact: '5.0.9'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/4.9.12/ERICrhelvnflafimage_CXP9032490-4.9.12.qcow2'
+    newEntry: false
+  - artifact: '4.0.9'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelpostgresimage_CXP9032491/3.9.12/ERICrhelpostgresimage_CXP9032491-3.9.12.qcow2'
+    newEntry: false
+  Scale-In-And-Out:
+  - artifact: ''
+    newEntry:
+  Real-VNF-Test:
+  - artifact: ''
+    newEntry:
+  Real-VNF Packages:
+  - artifact: ''
+    newEntry:
+  EO-Policy Framework:
+  - artifact: '0.1.299'
+    link: 'https://arm.epk.ericsson.se/artifactory/proj-orchestration-sd-helm/sd-0.1.299.tgz'
+  Dummy-Package:
+  - artifact: 'Test 1 artifacts.zip'
+    link: "https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%201%20artifacts.zip?version=1&modificationDate=1543326112000&api=v2"
+    newEntry: false
+  - artifact: 'Test 3 artifacts.zip'
+    link: "https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%203%20Artifacts.zip?version=1&modificationDate=1546518263000&api=v2"
+    newEntry: false
+  Dummy-Image-Deployed:
+  - artifact: 'ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/4.8.13/ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+    newEntry: false
+  Dummy-Workflow-Version:
+  - artifact: '2.3.41'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/content/groups/public/com/ericsson/vnflcm/examples/workflows/ERICvnflaf_CXP123456/2.3.41/ERICvnflaf_CXP123456-2.3.41.rpm'
+    newEntry: false
+  Status: 'terminal'
+
+-
+  Date: '8/1/2019'
+  EO-MT:
+  - artifact: '18.2.11'
+    newEntry: false
+  TestReport:
+  - artifact: 'Job 227'
+    link: 'https://fem101-eiffel052.lmera.ericsson.se:8443/jenkins/job/DO_ECM_Automated_Activity/227/cucumber-html-reports/overview-features.html'
+  ENM:
+  - artifact: 'ENM 18.18 (ISO Version: 1.67.83) AOM 901 151 R1CF'
+    newEntry: false
+  EO-SO:
+  - artifact: '1.2.1177'
+    newEntry: false
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%203%20Artifacts.zip?version=1&modificationDate=1546518263000&api=v2'
+    buildNumber: 0
+  EO-CM:
+  - artifact: 'R18.2.0.0.18.1000'
+    link: 'https://arm.epk.ericsson.se/artifactory/proj-ecm-product-generic-local/ecm/product/all/18.2.0.0.18.1000/'
+    newEntry: false
+  VNF-LCM-Versions:
+  - artifact: '19.02 -'
+    link: ' '
+    newEntry: true
+  - artifact: '5.0.18 -'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/media/ERICvnflcmossrcatlas_CXP9034147/4.9.15/ERICvnflcmossrcatlas_CXP9034147-4.9.15.tar'
+    newEntry: true
+  - artifact: '5.0.9'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/4.9.12/ERICrhelvnflafimage_CXP9032490-4.9.12.qcow2'
+    newEntry: true
+  - artifact: '4.0.9'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelpostgresimage_CXP9032491/3.9.12/ERICrhelpostgresimage_CXP9032491-3.9.12.qcow2'
+    newEntry: true
+  Scale-In-And-Out:
+  - artifact: ''
+    newEntry:
+  Real-VNF-Test:
+  - artifact: ''
+    newEntry:
+  Real-VNF Packages:
+  - artifact: ''
+    newEntry:
+  EO-Policy Framework:
+  - artifact: ''
+    link: ''
+  Dummy-Package:
+  - artifact: 'Test 1 artifacts.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%201%20artifacts.zip?version=1&modificationDate=1543326112000&api=v2'
+    newEntry: false
+  - artifact: 'Test 3 artifacts.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%203%20Artifacts.zip?version=1&modificationDate=1546518263000&api=v2'
+    newEntry: false
+  Dummy-Image-Deployed:
+  - artifact: 'ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/4.8.13/ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+    newEntry: false
+  Dummy-Workflow-Version:
+  - artifact: '2.3.41'
+    link: ' '
+    newEntry: false
+  Status: 'success'
+
+-
+  Date: '7/1/2019'
+  EO-MT:
+  - artifact: '18.2.10'
+    newEntry: false
+  TestReport:
+  - artifact: 'Job 219'
+    link: 'https://fem101-eiffel052.lmera.ericsson.se:8443/jenkins/job/DO_ECM_Automated_Activity/219/cucumber-html-reports/overview-features.html'
+  ENM:
+  - artifact: 'ENM 18.18 (ISO Version: 1.67.83) AOM 901 151 R1C'
+    newEntry: false
+  EO-SO:
+  - artifact: '1.2.1177 (NT)'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%203%20Artifacts.zip?version=1&modificationDate=1546518263000&api=v2'
+    newEntry: false
+    buildNumber: 0
+  EO-CM:
+  - artifact: 'R18.2.0.0.17.983'
+    link: 'https://arm.epk.ericsson.se/artifactory/proj-ecm-product-generic-local/ecm/product/all/18.2.0.0.17.983/'
+    newEntry: false
+  VNF-LCM-Versions:
+  - artifact: '18.18 -'
+    link: ''
+    newEntry: false
+  - artifact: '4.10.14 -'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/media/ERICvnflcmossrcatlas_CXP9034147/4.9.15/ERICvnflcmossrcatlas_CXP9034147-4.9.15.tar'
+    newEntry: false
+  - artifact: '4.9.12 -'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/4.9.12/ERICrhelvnflafimage_CXP9032490-4.9.12.qcow2'
+    newEntry: false
+  - artifact: '3.9.12'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelpostgresimage_CXP9032491/3.9.12/ERICrhelpostgresimage_CXP9032491-3.9.12.qcow2'
+    newEntry: false
+  Scale-In-And-Out:
+  - artifact: ''
+    newEntry:
+  Real-VNF-Test:
+  - artifact: ''
+    newEntry:
+  Real-VNF Packages:
+  - artifact: ''
+    newEntry:
+  EO-Policy Framework:
+  - artifact: ''
+    link: ''
+  Dummy-Package:
+  - artifact: 'Test 1 artifacts.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%201%20artifacts.zip?version=1&modificationDate=1543326112000&api=v2'
+    newEntry: false
+  Dummy-Image-Deployed:
+  - artifact: 'ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/4.8.13/ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+    newEntry: false
+  Dummy-Workflow-Version:
+  - artifact: '2.3.41'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/content/groups/public/com/ericsson/vnflcm/examples/workflows/ERICvnflaf_CXP123456/2.3.41/ERICvnflaf_CXP123456-2.3.41.rpm'
+    newEntry: true
+  Status: 'success'
+-
+  Date: '3/1/2019'
+  EO-MT:
+  - artifact: '18.2.9'
+    newEntry: false
+  TestReport:
+  - artifact: 'Job 219'
+    link: 'https://fem101-eiffel052.lmera.ericsson.se:8443/jenkins/job/DO_ECM_Automated_Activity/219/cucumber-html-reports/overview-features.html'
+  ENM:
+  - artifact: 'ENM 18.18 (ISO Version: 1.67.83) AOM 901 151 R1CF'
+    newEntry: false
+  EO-SO:
+  - artifact: '1.2.1177'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%203%20Artifacts.zip?version=1&modificationDate=1546518263000&api=v2'
+    newEntry: true
+    buildNumber: 0
+  EO-CM:
+  - artifact: 'R18.2.0.0.17.983'
+    link: 'https://arm.epk.ericsson.se/artifactory/proj-ecm-product-generic-local/ecm/product/all/18.2.0.0.17.983/'
+    newEntry: false
+  VNF-LCM-Versions:
+  - artifact: '18.18 -'
+    link: ''
+    newEntry: false
+  - artifact: '4.10.14 -'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/media/ERICvnflcmossrcatlas_CXP9034147/4.9.15/ERICvnflcmossrcatlas_CXP9034147-4.9.15.tar'
+    newEntry: false
+  - artifact: '4.9.12 -'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/4.9.12/ERICrhelvnflafimage_CXP9032490-4.9.12.qcow2'
+    newEntry: false
+  - artifact: '3.9.12'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelpostgresimage_CXP9032491/3.9.12/ERICrhelpostgresimage_CXP9032491-3.9.12.qcow2'
+    newEntry: false
+  Scale-In-And-Out:
+  - artifact: ''
+    newEntry:
+  Real-VNF-Test:
+  - artifact: ''
+    newEntry:
+  Real-VNF Packages:
+  - artifact: ''
+    newEntry:
+  EO-Policy Framework:
+  - artifact: ''
+    link: ''
+  Dummy-Package:
+  - artifact: 'Test 1 artifacts.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%201%20artifacts.zip?version=1&modificationDate=1543326112000&api=v2'
+    newEntry: false
+  - artifact: 'Test 3 artifacts.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%203%20Artifacts.zip?version=1&modificationDate=1546518263000&api=v2'
+    newEntry: false
+  Dummy-Image-Deployed:
+  - artifact: 'ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/4.8.13/ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+    newEntry: false
+  Dummy-Workflow-Version:
+  - artifact: '2.3.28'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/content/groups/public/com/ericsson/vnflcm/examples/workflows/ERICvnflaf_CXP123456/2.3.28/ERICvnflaf_CXP123456-2.3.28.rpm'
+    newEntry: false
+  Status: 'success'
+-
+  Date: '2/1/2019'
+  EO-MT:
+  - artifact: '18.2.8'
+    newEntry: false
+  TestReport:
+  - artifact: 'Job 219'
+    link: 'https://fem101-eiffel052.lmera.ericsson.se:8443/jenkins/job/DO_ECM_Automated_Activity/219/cucumber-html-reports/overview-features.html'
+  ENM:
+  - artifact: 'ENM 18.18 (ISO Version: 1.67.83) AOM 901 151 R1CF'
+    newEntry: true
+  EO-SO:
+  - artifact: '1.2.1168'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%202%20Artifacts.zip?version=1&modificationDate=1545322419000&api=v2'
+    newEntry: false
+    buildNumber: 0
+  EO-CM:
+  - artifact: 'R18.2.0.0.17.983'
+    link: 'https://arm.epk.ericsson.se/artifactory/proj-ecm-product-generic-local/ecm/product/all/18.2.0.0.17.983/'
+    newEntry: true
+  VNF-LCM-Versions:
+  - artifact: '18.18 -'
+    link: ''
+    newEntry: false
+  - artifact: '4.10.14 -'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/media/ERICvnflcmossrcatlas_CXP9034147/4.9.15/ERICvnflcmossrcatlas_CXP9034147-4.9.15.tar'
+    newEntry: false
+  - artifact: '4.9.12 -'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/4.9.12/ERICrhelvnflafimage_CXP9032490-4.9.12.qcow2'
+    newEntry: false
+  - artifact: '3.9.12'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelpostgresimage_CXP9032491/3.9.12/ERICrhelpostgresimage_CXP9032491-3.9.12.qcow2'
+    newEntry: false
+  Scale-In-And-Out:
+  - artifact: ''
+    newEntry:
+  Real-VNF-Test:
+  - artifact: ''
+    newEntry:
+  Real-VNF Packages:
+  - artifact: ''
+    newEntry:
+  EO-Policy Framework:
+  - artifact: ''
+    link: ''
+  Dummy-Package:
+  - artifact: 'Test 1 artifacts.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%201%20artifacts.zip?version=1&modificationDate=1543326112000&api=v2'
+    newEntry: false
+  - artifact: 'Test 2 artifacts.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%202%20Artifacts.zip?version=1&modificationDate=1545322419000&api=v2'
+    newEntry: false
+  Dummy-Image-Deployed:
+  - artifact: 'ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/4.8.13/ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+    newEntry: false
+  Dummy-Workflow-Version:
+  - artifact: '2.3.28'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/content/groups/public/com/ericsson/vnflcm/examples/workflows/ERICvnflaf_CXP123456/2.3.28/ERICvnflaf_CXP123456-2.3.28.rpm'
+    newEntry: false
+  Status: 'success'
+-
+  Date: '20/12/2018'
+  EO-MT:
+  - artifact: '18.2.7'
+    newEntry: false
+  TestReport:
+  - artifact: 'Job 212'
+    link: 'https://fem101-eiffel052.lmera.ericsson.se:8443/jenkins/job/DO_ECM_Automated_Activity/212/cucumber-html-reports/report-feature_integration_usecases-features-deploy_package-feature.html'
+  ENM:
+  - artifact: 'ENM 18.18 (ISO Version: 1.67.83) AOM 901 151 R1CF'
+    newEntry: true
+  EO-SO:
+  - artifact: '1.2.1168'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%202%20Artifacts.zip?version=1&modificationDate=1545322419000&api=v2'
+    newEntry: true
+    buildNumber: 0
+  EO-CM:
+  - artifact: 'R18.2.0.0.16.976'
+    link: 'https://arm.epk.ericsson.se/artifactory/proj-ecm-product-generic-local/ecm/product/all/18.2.0.0.16.976/'
+    newEntry: true
+  VNF-LCM-Versions:
+  - artifact: '18.18 -'
+    link: ''
+    newEntry: true
+  - artifact: '4.10.14 -'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/media/ERICvnflcmossrcatlas_CXP9034147/4.9.15/ERICvnflcmossrcatlas_CXP9034147-4.9.15.tar'
+    newEntry: true
+  - artifact: '4.9.12'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/4.9.12/ERICrhelvnflafimage_CXP9032490-4.9.12.qcow2'
+    newEntry: true
+  - artifact: '3.9.12 -'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelpostgresimage_CXP9032491/3.9.12/ERICrhelpostgresimage_CXP9032491-3.9.12.qcow2'
+    newEntry: true
+  Scale-In-And-Out:
+  - artifact: ''
+    newEntry:
+  Real-VNF-Test:
+  - artifact: ''
+    newEntry:
+  Real-VNF Packages:
+  - artifact: ''
+    newEntry:
+  EO-Policy Framework:
+  - artifact: ''
+    link: ''
+  Dummy-Package:
+  - artifact: 'Test 1 artifacts.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%201%20artifacts.zip?version=1&modificationDate=1543326112000&api=v2'
+    newEntry: false
+  - artifact: 'Test 2 artifacts.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%202%20Artifacts.zip?version=1&modificationDate=1545322419000&api=v2'
+    newEntry: false
+  Dummy-Image-Deployed:
+  - artifact: 'ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/4.8.13/ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+    newEntry: false
+  Dummy-Workflow-Version:
+  - artifact: '2.3.28'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/content/groups/public/com/ericsson/vnflcm/examples/workflows/ERICvnflaf_CXP123456/2.3.28/ERICvnflaf_CXP123456-2.3.28.rpm'
+    newEntry: false
+  - artifact: '2.4.0 (NOT RELEASED)'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/content/sites/tor/vnflaf-sdk/2.4.0/nfvo-example-workflows.html'
+    newEntry: true
+  Status: 'success'
+-
+  Date: '13/12/2018'
+  EO-MT:
+  - artifact: '18.2.6'
+    newEntry: false
+  TestReport:
+  - artifact: 'Job 209'
+    link: 'https://fem101-eiffel052.lmera.ericsson.se:8443/jenkins/job/DO_ECM_Automated_Activity/209/cucumber-html-reports/report-feature_integration_usecases-features-deploy_package-feature.html'
+  ENM:
+  - artifact: '18.16'
+    newEntry: false
+  EO-SO:
+  - artifact: 'NT'
+    link: ''
+    newEntry: false
+    buildNumber: 0
+  EO-CM:
+  - artifact: 'R18.2.0.0.16.958'
+    link: 'https://arm.epk.ericsson.se/artifactory/proj-ecm-product-generic-local/ecm/product/all/18.2.0.0.16.958/'
+    newEntry: true
+  VNF-LCM-Versions:
+  - artifact: '18.16 -'
+    link: ''
+    newEntry: false
+  - artifact: '4.9.15 -'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/media/ERICvnflcmossrcatlas_CXP9034147/4.9.15/ERICvnflcmossrcatlas_CXP9034147-4.9.15.tar'
+    newEntry: false
+  - artifact: '4.8.13 -'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/4.8.13/ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+    newEntry: false
+  - artifact: '3.8.13'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelpostgresimage_CXP9032491/3.8.13/ERICrhelpostgresimage_CXP9032491-3.8.13.qcow2'
+    newEntry: false
+  Scale-In-And-Out:
+  - artifact: ''
+    newEntry:
+  Real-VNF-Test:
+  - artifact: ''
+    newEntry:
+  Real-VNF Packages:
+  - artifact: ''
+    newEntry:
+  EO-Policy Framework:
+  - artifact: ''
+    link: ''
+  Dummy-Package:
+  - artifact: 'Test 1 artifacts.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%201%20artifacts.zip?version=1&modificationDate=1543326112000&api=v2'
+    newEntry: false
+  Dummy-Image-Deployed:
+  - artifact: 'ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/4.8.13/ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+    newEntry: false
+  Dummy-Workflow-Version:
+  - artifact: '2.3.28'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/content/groups/public/com/ericsson/vnflcm/examples/workflows/ERICvnflaf_CXP123456/2.3.28/ERICvnflaf_CXP123456-2.3.28.rpm'
+    newEntry: false
+  Status: 'success'
+
+-
+  Date: '12/12/2018'
+  EO-MT:
+  - artifact: '18.2.6'
+    newEntry: false
+  TestReport:
+  - artifact: 'Job 202'
+    link: 'https://fem101-eiffel052.lmera.ericsson.se:8443/jenkins/job/DO_ECM_Automated_Activity/202/cucumber-html-reports/report-feature_integration_usecases-features-deploy_package-feature.html'
+  ENM:
+  - artifact: '18.16'
+    newEntry: false
+  EO-SO:
+  - artifact: 'NT'
+    link: ' '
+    newEntry: false
+    buildNumber: 0
+  EO-CM:
+  - artifact: 'R18.2.0.0.16.967'
+    link: 'https://arm.epk.ericsson.se/artifactory/proj-ecm-product-generic-local/ecm/product/all/18.2.0.0.16.967/'
+    newEntry: true
+  VNF-LCM-Versions:
+  - artifact: '18.16 -'
+    link: ''
+    newEntry: false
+  - artifact: '4.9.15 -'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/media/ERICvnflcmossrcatlas_CXP9034147/4.9.15/ERICvnflcmossrcatlas_CXP9034147-4.9.15.tar'
+    newEntry: false
+  - artifact: '4.8.13 -'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/4.8.13/ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+    newEntry: false
+  - artifact: '3.8.13 -'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelpostgresimage_CXP9032491/3.8.13/ERICrhelpostgresimage_CXP9032491-3.8.13.qcow2'
+    newEntry: false
+  Scale-In-And-Out:
+  - artifact: ''
+    newEntry:
+  Real-VNF-Test:
+  - artifact: ''
+    newEntry:
+  Real-VNF Packages:
+  - artifact: ''
+    newEntry:
+  EO-Policy Framework:
+  - artifact: ''
+    link: ''
+  Dummy-Package:
+  - artifact: 'Test 1 artifacts.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%201%20artifacts.zip?version=1&modificationDate=1543326112000&api=v2'
+    newEntry: false
+  Dummy-Image-Deployed:
+  - artifact: 'ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/4.8.13/ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+    newEntry: false
+  Dummy-Workflow-Version:
+  - artifact: '2.3.28'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/content/groups/public/com/ericsson/vnflcm/examples/workflows/ERICvnflaf_CXP123456/2.3.28/ERICvnflaf_CXP123456-2.3.28.rpm'
+    newEntry: false
+  Status: 'success'
+-
+  Date: '11/12/2018'
+  EO-MT:
+  - artifact: '18.2.6'
+    newEntry: false
+  TestReport:
+  - artifact: 'Job 201'
+    link: 'https://fem101-eiffel052.lmera.ericsson.se:8443/jenkins/job/DO_ECM_Automated_Activity/201/cucumber-html-reports/report-feature_integration_usecases-features-deploy_package-feature.html'
+  ENM:
+  - artifact: '18.16'
+    newEntry: false
+  EO-SO:
+  - artifact: 'NT'
+    link: ''
+    newEntry: false
+    buildNumber: 0
+  EO-CM:
+  - artifact: 'R18.2.0.0.16.967'
+    link: 'https://arm.epk.ericsson.se/artifactory/proj-ecm-product-generic-local/ecm/product/all/18.2.0.0.16.967/'
+    newEntry: false
+  VNF-LCM-Versions:
+  - artifact: '18.16 -'
+    link: ''
+    newEntry: false
+  - artifact: '4.9.15 -'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/media/ERICvnflcmossrcatlas_CXP9034147/4.9.15/ERICvnflcmossrcatlas_CXP9034147-4.9.15.tar'
+    newEntry: false
+  - artifact: '4.8.13 -'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/4.8.13/ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+    newEntry: false
+  - artifact: '3.8.13 -'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelpostgresimage_CXP9032491/3.8.13/ERICrhelpostgresimage_CXP9032491-3.8.13.qcow2'
+    newEntry: false
+  Scale-In-And-Out:
+  - artifact: ''
+    newEntry:
+  Real-VNF-Test:
+  - artifact: ''
+    newEntry:
+  Real-VNF Packages:
+  - artifact: ''
+    newEntry:
+  EO-Policy Framework:
+  - artifact: ''
+    link: ''
+  Dummy-Package:
+  - artifact: 'Test 1 artifacts.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%201%20artifacts.zip?version=1&modificationDate=1543326112000&api=v2'
+    newEntry: false
+  Dummy-Image-Deployed:
+  - artifact: 'ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/4.8.13/ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+    newEntry: false
+  Dummy-Workflow-Version:
+  - artifact: '2.3.8'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/content/groups/public/com/ericsson/vnflcm/examples/workflows/ERICvnflaf_CXP123456/2.3.28/ERICvnflaf_CXP123456-2.3.28.rpm'
+    newEntry: false
+  Status: 'terminal'
+
+-
+  Date: '5/12/2018'
+  EO-MT:
+  - artifact: '18.2.5'
+    newEntry: false
+  TestReport:
+  - artifact: 'Job 197'
+    link: 'https://fem101-eiffel052.lmera.ericsson.se:8443/jenkins/job/DO_ECM_Automated_Activity/197/cucumber-html-reports/report-feature_integration_usecases-features-deploy_package-feature.html'
+  ENM:
+  - artifact: '18.15 (AOM 901 151 R1CC)'
+    newEntry: false
+  EO-SO:
+  - artifact: 'NT'
+    link: ' '
+    newEntry: false
+    buildNumber: 0
+  EO-CM:
+  - artifact: 'R18.2.0.0.16.958'
+    link: 'https://arm.epk.ericsson.se/artifactory/proj-ecm-product-generic-local/ecm/product/all/18.2.0.0.16.958/'
+    newEntry: true
+  VNF-LCM-Versions:
+  - artifact: '18.16 -'
+    link: ''
+    newEntry: false
+  - artifact: '4.9.15 -'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/media/ERICvnflcmossrcatlas_CXP9034147/4.9.15/ERICvnflcmossrcatlas_CXP9034147-4.9.15.tar'
+    newEntry: false
+  - artifact: '4.8.13 -'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/4.8.13/ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+    newEntry: false
+  - artifact: '3.8.13 -'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelpostgresimage_CXP9032491/3.8.13/ERICrhelpostgresimage_CXP9032491-3.8.13.qcow2'
+    newEntry: false
+  Scale-In-And-Out:
+  - artifact: ''
+    newEntry:
+  Real-VNF-Test:
+  - artifact: ''
+    newEntry:
+  Real-VNF Packages:
+  - artifact: ''
+    newEntry:
+  EO-Policy Framework:
+  - artifact: ''
+    link: ''
+  Dummy-Package:
+  - artifact: 'Test 1 artifacts.zip'
+    link: 'https://confluence-nam.lmera.ericsson.se/download/attachments/272624388/Test%201%20artifacts.zip?version=1&modificationDate=1543326112000&api=v2'
+    newEntry: false
+  Dummy-Image-Deployed:
+  - artifact: 'ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/service/local/repositories/releases/content/com/ericsson/oss/vnflaf/images/ERICrhelvnflafimage_CXP9032490/4.8.13/ERICrhelvnflafimage_CXP9032490-4.8.13.qcow2'
+    newEntry: false
+  Dummy-Workflow-Version:
+  - artifact: '2.3.28'
+    link: 'https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/content/groups/public/com/ericsson/vnflcm/examples/workflows/ERICvnflaf_CXP123456/2.3.28/ERICvnflaf_CXP123456-2.3.28.rpm'
+    newEntry: false
+  Status: 'success'
+
+

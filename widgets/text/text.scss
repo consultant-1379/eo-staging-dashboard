@@ -1,0 +1,79 @@
+// ----------------------------------------------------------------------------
+// Sass declarations
+// ----------------------------------------------------------------------------
+$background-color:  #ec663c;
+
+$title-color:       rgba(255, 255, 255, 0.7);
+$moreinfo-color:    rgba(255, 255, 255, 0.7);
+
+// ----------------------------------------------------------------------------
+// Widget-text styles
+// ----------------------------------------------------------------------------
+.widget-text {
+
+  background-color: $background-color;
+
+  .title {
+    color: $title-color;
+    text-decoration: underline;
+    margin-top: -30%;
+  }
+
+  .boldText{
+    padding-top: 6%
+  }
+
+  .text{
+    font-size: 15px;
+    font-weight: bold;
+  }
+
+  .more-info {
+    color: $moreinfo-color;
+  }
+
+  .updated-at {
+    color: rgba(255, 255, 255, 0.7);
+  }
+
+
+  &.large h3 {
+    font-size: 65px;
+  }
+
+  .legendTable {
+    width: 80%;
+    margin: auto;
+    margin-top: 7%;
+    margin-bottom: -20%;
+  }
+
+  td {
+    border: 1px solid darkgrey;
+    color: #000000;
+  }
+
+  .red{
+    background-color: rgba(255,0,0,0.7);
+  }
+
+  .green{
+    background-color: rgba(98,209,70,0.7);
+  }
+
+  .blue{
+    background-color: rgba(102,153,255,0.7);
+  }
+
+  .yellow{
+    background-color: rgba(229,229,0,0.7);
+  }
+
+  .white{
+    background-color: rgba(208, 208, 208, 0.7);
+  }
+
+  .blueText{
+    color: #4c4cff;
+  }
+}

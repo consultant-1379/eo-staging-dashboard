@@ -1,0 +1,25 @@
+FROM ubuntu:14.04
+MAINTAINER neil.grogan@ericsson.com
+
+COPY files /
+COPY Gem* dashboard/
+RUN mkdir -p dashboard/
+WORKDIR /dashboard
+
+ENV BUILD_PACKAGES ruby ruby-dev build-essential libssl-dev xvfb firefox ttf-ancient-fonts postfix heirloom-mailx
+ENV DISPLAY :99
+
+# Install all of the required packages.
+# At the end, remove the apt cache
+RUN apt-get update && \
+    apt-get install -y $BUILD_PACKAGES && \
+    rm -rf /var/cache/apt/archives/* && \
+    cat /dev/null > /etc/postfix/main.cf && \
+    gem install dashing bundler && \ 
+    bundle install
+
+ONBUILD COPY . /dashboard
+ONBUILD RUN bundle install
+ONBUILD EXPOSE 3030
+#ONBUILD HEALTHCHECK CMD curl -f http://localhost:3030/dash-back || exit 1
+ONBUILD CMD /bin/bash -c "/etc/init.d/postfix restart; /etc/init.d/xvfb start; bundle exec dashing start"
